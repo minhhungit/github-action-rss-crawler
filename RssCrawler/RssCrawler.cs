@@ -63,8 +63,11 @@ namespace RssCrawler
 
                 //channels = channels.Take(5).ToList();
 
+                var progressCounter = 0;
                 foreach (var channel in channels)
                 {
+                    progressCounter++;
+
                     feedUrl = channel.Link;
 
                     if (string.IsNullOrWhiteSpace(feedUrl))
@@ -74,7 +77,7 @@ namespace RssCrawler
 
                     try
                     {
-                        _logger.Info($"- Fetching url {feedUrl}");
+                        _logger.Info($"- [{progressCounter}/{channels.Count}] Fetching url {feedUrl}");
                         var feed = GetFeedsFromChannel(feedUrl, channel.RssCrawlerEngine, out RssCrawlerEngine usedEngine, out Exception fetchFeedError);
 
                         _logger.Info($"  - Nbr of feed items {feed?.Items?.Count ?? 0}");
