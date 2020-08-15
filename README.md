@@ -8,6 +8,8 @@ Steps:
   - Commit change
   - Push
   
-Github Action does all above steps, it will run rss crawler every 2 hours
+>**Github Action does all above steps, it will run rss crawler every 2 hours**
 
+
+## Demo
 <img src="https://raw.githubusercontent.com/minhhungit/github-action-rss-crawler/master/images/demo.png" />
