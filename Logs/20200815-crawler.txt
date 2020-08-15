@@ -1,0 +1,27 @@
+INFO	There are 460 active channels
+INFO	- Fetching url https://damienbod.com/feed
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- Fetching url https://vuejsfeed.com/feed
+INFO	  - Nbr of feed items 573
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- Fetching url https://www.stevejgordon.co.uk/feed
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- Fetching url http://blog.jonathanoliver.com/index.xml
+INFO	  - Nbr of feed items 144
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- Fetching url http://feeds.feedburner.com/codeclimber
+INFO	  - Nbr of feed items 25
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	Done!
