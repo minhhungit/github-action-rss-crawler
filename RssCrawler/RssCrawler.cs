@@ -94,7 +94,7 @@ namespace RssCrawler
 
                             if (top10LatestItems.Count == 0)
                             {
-                                break;
+                                continue;
                             }
                             else
                             {
