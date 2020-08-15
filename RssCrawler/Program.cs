@@ -13,10 +13,10 @@ namespace RssCrawler
             var appRootPath = GetApplicationRoot();
             WriteAllText(Path.Combine(appRootPath, "../", "README.md"), "Hello From Jin -- this file is auto committed " + DateTime.Now);
 
+            RssCrawler.Crawl();
+
             string assemblyFolder = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
             string crawlLogFolderPath= Path.Combine(assemblyFolder, "Logs");
-
-            RssCrawler.Crawl();
 
             string[] filePaths = Directory.GetFiles(crawlLogFolderPath);
             foreach (var filename in filePaths)
