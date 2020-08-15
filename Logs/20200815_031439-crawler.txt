@@ -1,0 +1,119 @@
+INFO	There are 460 active channels
+INFO	- [1/460] Fetching url https://damienbod.com/feed
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [2/460] Fetching url https://vuejsfeed.com/feed
+INFO	  - Nbr of feed items 573
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [3/460] Fetching url https://www.stevejgordon.co.uk/feed
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [4/460] Fetching url http://blog.jonathanoliver.com/index.xml
+INFO	  - Nbr of feed items 144
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [5/460] Fetching url http://feeds.feedburner.com/codeclimber
+INFO	  - Nbr of feed items 25
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [6/460] Fetching url https://codeopinion.com/feed
+INFO	  - Nbr of feed items 20
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [7/460] Fetching url https://medium.com/feed/@jakubgarfield
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [8/460] Fetching url http://mattwarren.org/atom.xml
+INFO	  - Nbr of feed items 76
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [9/460] Fetching url https://blog.maartenballiauw.be/feed.xml
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [10/460] Fetching url http://feeds.haacked.com/haacked
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [11/460] Fetching url http://feeds.feedburner.com/OdeToCode
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [12/460] Fetching url https://www.mikesdotnetting.com/feed
+INFO	  - Nbr of feed items 20
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [13/460] Fetching url http://feeds.hanselman.com/ScottHanselman
+INFO	  - Nbr of feed items 8
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [14/460] Fetching url https://medium.com/feed/@FurryMogwai
+INFO	  - Nbr of feed items 6
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [15/460] Fetching url http://dontcodetired.com/blog/syndication.axd
+INFO	  - Nbr of feed items 3
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [16/460] Fetching url https://andrewlock.net/rss
+INFO	  - Nbr of feed items 15
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [17/460] Fetching url https://viblo.asia/rss
+INFO	  - Nbr of feed items 40
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [18/460] Fetching url https://blogs.msdn.microsoft.com/visualstudio/feed
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [19/460] Fetching url https://blogs.msdn.microsoft.com/dotnet/feed
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [20/460] Fetching url https://blogs.msdn.microsoft.com/webdev/feed
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [21/460] Fetching url http://feeds.feedburner.com/ReflectivePerspective
+INFO	  - Nbr of feed items 5
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [22/460] Fetching url https://www.alvinashcraft.com/feed
+INFO	  - Nbr of feed items 12
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [23/460] Fetching url http://feeds.feedburner.com/RadenkoZecBlog
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted
+INFO	  - Updated status
+INFO	- [24/460] Fetching url https://eventuallyconsistent.net/feed
+INFO	  - Nbr of feed items 0
+INFO	Done!
