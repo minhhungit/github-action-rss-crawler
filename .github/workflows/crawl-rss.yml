@@ -20,7 +20,6 @@ jobs:
       - run: dotnet run --project RssCrawler\RssCrawler.csproj
       - run: git config --local user.email "it.minhhung@gmail.com"
       - run: git config --local user.name "Jin"
-      - run: git add .
       - run: git add --all
       - run: git commit -m "Add changes"
       - run: git push
