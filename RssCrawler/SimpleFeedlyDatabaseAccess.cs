@@ -1,5 +1,6 @@
 ﻿using LiteDB;
 using RssCrawler.Models;
+using RssCrawler.Utils;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -108,6 +109,21 @@ namespace RssCrawler
                 }               
 
                 col.InsertBulk(items);
+            }
+        }
+
+        public static List<RssFeedItemRow> GetAllFeedItems()
+        {
+            using (var db = new LiteDatabase(GetDbPath()))
+            {
+                var col = db.GetCollection<RssFeedItemRow>("feedItems");
+
+                return col
+                    .Include(x => x.Channel)
+                    .FindAll()
+                    .OrderBy(x => x.Channel.Id)
+                    .ThenByDescending(x => x.PublishingDate)
+                    ?.ToList() ?? new List<RssFeedItemRow>();
             }
         }
     }

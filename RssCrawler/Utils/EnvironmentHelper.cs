@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Text.RegularExpressions;
 
-namespace RssCrawler
+namespace RssCrawler.Utils
 {
     public class EnvironmentHelper
     {

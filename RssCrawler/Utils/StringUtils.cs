@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RssCrawler
+namespace RssCrawler.Utils
 {
     public static class StringUtils
     {

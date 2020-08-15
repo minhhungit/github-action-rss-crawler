@@ -2,6 +2,7 @@
 using LiteDB;
 using Newtonsoft.Json;
 using RssCrawler.Models;
+using RssCrawler.Utils;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
