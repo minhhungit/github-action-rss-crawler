@@ -108,14 +108,14 @@ namespace RssCrawler
                                 {
                                     if (!StringUtils.IsUrl(fItem.Link))
                                     {
-                                        return;
+                                        continue;
                                     }
 
                                     var feedItemKey = GenerateFeedItemKey(fItem);
 
                                     if (string.IsNullOrWhiteSpace(feedItemKey) || string.IsNullOrWhiteSpace(fItem.Link))
                                     {
-                                        return;
+                                        continue;
                                     }
 
                                     var feedItem = new RssFeedItemRow
@@ -141,7 +141,7 @@ namespace RssCrawler
 
                                 SimpleFeedlyDatabaseAccess.InsertFeedItems(insertItems);
 
-                                _logger.Info($"  - Inserted");
+                                _logger.Info($"  - Inserted {insertItems} items");
                             }
 
                             SimpleFeedlyDatabaseAccess.UpdateChannelErrorStatus(channel.Id, false, null);
