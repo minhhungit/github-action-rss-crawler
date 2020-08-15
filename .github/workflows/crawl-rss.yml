@@ -1,7 +1,7 @@
 on:
   schedule:
-    # Runs every 5 minutes
-    - cron: '*/5 * * * *'
+    # Runs every 2h
+    - cron: '0 */2 * * *'
   workflow_dispatch:
   
 jobs:
