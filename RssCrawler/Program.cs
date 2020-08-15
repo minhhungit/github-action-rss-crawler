@@ -13,7 +13,7 @@ namespace RssCrawler
         static void Main(string[] args)
         {
             var appRootPath = EnvironmentHelper.GetApplicationRoot();
-            WriteAllText(Path.Combine(appRootPath, "../", "README.md"), "Hello From Jin -- this file is auto committed " + DateTime.Now);
+            //WriteAllText(Path.Combine(appRootPath, "../", "README.md"), "Hello From Jin -- this file is auto committed " + DateTime.Now);
 
             RssCrawler.CrawlRss();
 
