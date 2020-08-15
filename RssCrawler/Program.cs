@@ -49,7 +49,7 @@ namespace RssCrawler
                         sbChannel = new StringBuilder();
                     }
 
-                    sbChannel.AppendLine($"<h2># <a href='{item.Channel.Link}' target='_blank'>{item.Channel.Title}</a></h2>");
+                    sbChannel.AppendLine($"<h2 class='channel-title'># <a href='{item.Channel.Link}' target='_blank'>{item.Channel.Title}</a></h2>");
                     sbChannel.AppendLine("<div class='row'>"); // new row
                 }
                 else
