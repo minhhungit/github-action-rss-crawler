@@ -17,6 +17,10 @@ namespace RssCrawler
             //string assemblyFolder = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
             //string crawlLogFolderPath= Path.Combine(assemblyFolder, "Logs");
 
+            //if (!Directory.Exists(crawlLogFolderPath))
+            //{
+            //    Directory.CreateDirectory(crawlLogFolderPath);
+            //}
             //string[] filePaths = Directory.GetFiles(crawlLogFolderPath);
             //foreach (var filename in filePaths)
             //{
