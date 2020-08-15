@@ -1,6 +1,7 @@
 ﻿using HtmlAgilityPack;
 using LiteDB;
 using Newtonsoft.Json;
+using NLog;
 using RssCrawler.Models;
 using System;
 using System.Collections.Generic;
@@ -15,14 +16,18 @@ namespace RssCrawler
 {
     public class RssCrawler
     {
-        private static readonly Random _ran = new Random();
-
         public static void Crawl()
         {
+            var _logger = LogManager.GetCurrentClassLogger();
+
             var feedUrl = string.Empty;
             try
             {
                 List<RssChannelRow> channels = channels = SimpleFeedlyDatabaseAccess.GetActiveChannels().OrderBy(x => x.Id).ToList();
+
+                _logger.Info($"There are {channels.Count} active channels");
+
+                channels = channels.Take(5).ToList();
 
                 foreach (var channel in channels)
                 {
@@ -35,7 +40,10 @@ namespace RssCrawler
 
                     try
                     {
+                        _logger.Info($"- Fetching url {feedUrl}");
                         var feed = GetFeedsFromChannel(feedUrl, channel.RssCrawlerEngine, out RssCrawlerEngine usedEngine, out Exception fetchFeedError);
+
+                        _logger.Info($"  - Nbr of feed items {feed?.Items?.Count ?? 0}");
 
                         // update default engine for channel
                         SimpleFeedlyDatabaseAccess.UpdateChannelDefaultEngine(channel.Id, fetchFeedError != null ? RssCrawlerEngine.CodeHollowFeedReader : usedEngine);
@@ -54,6 +62,7 @@ namespace RssCrawler
                             else
                             {
                                 SimpleFeedlyDatabaseAccess.DeleteAllFeedItemByChannelId(channel.Id);
+                                _logger.Info($"  - Deleted old items");
 
                                 foreach (var fItem in top10LatestItems)
                                 {
@@ -90,13 +99,15 @@ namespace RssCrawler
                                     SimpleFeedlyDatabaseAccess.InsertFeedItem(feedItem);
                                 }
 
+                                _logger.Info($"  - Inserted");
                             }
 
                             SimpleFeedlyDatabaseAccess.UpdateChannelErrorStatus(channel.Id, false, null);
-
+                            _logger.Info($"  - Updated status");
                         }
                         else
                         {
+                            _logger.Info($"  - [NO ITEMS]");
                             SimpleFeedlyDatabaseAccess.UpdateChannelErrorStatus(channel.Id, true, fetchFeedError == null ? null : JsonConvert.SerializeObject(fetchFeedError));
 
                             if (fetchFeedError != null)
@@ -107,6 +118,8 @@ namespace RssCrawler
                     }
                     catch (Exception err)
                     {
+                        _logger.Error($"  - Got Error: {JsonConvert.SerializeObject(err, new JsonSerializerSettings { ReferenceLoopHandling = ReferenceLoopHandling.Ignore })}");
+
                         SimpleFeedlyDatabaseAccess.UpdateChannelErrorStatus(channel.Id, true, JsonConvert.SerializeObject(err));
                         ErrorHandle(err, feedUrl);
                     }
@@ -114,8 +127,12 @@ namespace RssCrawler
             }
             catch (Exception ex)
             {
+                _logger.Error($"  - [ERROR]: {JsonConvert.SerializeObject(ex, new JsonSerializerSettings { ReferenceLoopHandling = ReferenceLoopHandling.Ignore })}");
+
                 ErrorHandle(ex, feedUrl);
             }
+
+            _logger.Info($"Done!");
         }
 
         private static string GenerateFeedItemKey(SimpleFeedlyFeedItem item)
