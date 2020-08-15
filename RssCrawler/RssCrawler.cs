@@ -4,6 +4,8 @@ using Newtonsoft.Json;
 using RssCrawler.Models;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Net;
@@ -15,7 +17,9 @@ namespace RssCrawler
 {
     public class RssCrawler
     {
-        public static void CrawlRs()
+        const string LogDateTimeFormat = "yyyyMMdd_HHmmss";
+
+        public static void CrawlRss()
         {
             var logFolder = $"{Path.Combine(EnvironmentHelper.GetApplicationRoot(), "../Logs/")}";
             if (!Directory.Exists(logFolder))
@@ -23,7 +27,31 @@ namespace RssCrawler
                 Directory.CreateDirectory(logFolder);
             }
 
-            var logPath = $"{Path.Combine(logFolder, $"{DateTime.Now:yyyMMdd}-crawler.txt")}";
+            var existedLogFiles = Directory.GetFiles(logFolder);
+
+            var logFileBank = new Dictionary<DateTime, string>();
+            foreach (var file in existedLogFiles)
+            {
+                var dtFormatArr = Path.GetFileNameWithoutExtension(file).Split('-');
+                if (dtFormatArr.Length > 0)
+                {
+                    var dtText = dtFormatArr[0];
+                    if (DateTime.TryParseExact(dtText, LogDateTimeFormat, CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime dt))
+                    {
+                        logFileBank.Add(dt, file);
+                    }
+                }                
+            }
+
+            foreach (var kv in logFileBank)
+            {
+                if (kv.Key < DateTime.Now.AddDays(-10)) // just keep 10 days nearest
+                {
+                    File.Delete(kv.Value);
+                }
+            }
+
+            var logPath = $"{Path.Combine(logFolder, $"{DateTime.Now.ToString(LogDateTimeFormat)}-crawler.txt")}";
 
             var _logger = new MyLogger(logPath);
 
