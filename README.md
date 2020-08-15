@@ -8,7 +8,7 @@ Steps:
   - Commit change
   - Push
   
->**Github Action does all above steps, it will run rss crawler every 2 hours**
+>**Github Action does all above steps, it will run rss crawler every 4 hours**
 
 
 ## Demo
