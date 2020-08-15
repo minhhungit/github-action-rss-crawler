@@ -101,6 +101,8 @@ namespace RssCrawler
                                 SimpleFeedlyDatabaseAccess.DeleteAllFeedItemByChannelId(channel.Id);
                                 _logger.Info($"  - Deleted old items");
 
+                                var insertItems = new List<RssFeedItemRow>();
+
                                 foreach (var fItem in top10LatestItems)
                                 {
                                     if (!StringUtils.IsUrl(fItem.Link))
@@ -133,8 +135,10 @@ namespace RssCrawler
                                         feedItem.CoverImageUrl = coverImageUrl;
                                     }
 
-                                    SimpleFeedlyDatabaseAccess.InsertFeedItem(feedItem);
+                                    insertItems.Add(feedItem);
                                 }
+
+                                SimpleFeedlyDatabaseAccess.InsertFeedItems(insertItems);
 
                                 _logger.Info($"  - Inserted");
                             }

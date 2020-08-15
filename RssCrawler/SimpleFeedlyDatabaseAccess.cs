@@ -89,5 +89,26 @@ namespace RssCrawler
                 col.Insert(item);
             }
         }
+
+        public static void InsertFeedItems(List<RssFeedItemRow> items)
+        {
+            if (items == null || items.Count == 0)
+            {
+                return;
+            }
+
+            using (var db = new LiteDatabase(GetDbPath()))
+            {
+                var col = db.GetCollection<RssFeedItemRow>("feedItems");
+
+                foreach (var item in items)
+                {
+                    item.RssChannelDomainGroup = string.IsNullOrEmpty(item.RssChannelDomainGroup) ? item.Link : item.RssChannelDomainGroup;
+                    item.PublishingDate = item.PublishingDate == null || item.PublishingDate == DateTime.MinValue ? DateTime.Now : item.PublishingDate;
+                }               
+
+                col.InsertBulk(items);
+            }
+        }
     }
 }
