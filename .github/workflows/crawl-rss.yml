@@ -1,0 +1,29 @@
+on:
+  schedule:
+    # Runs every 5 minutes
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+  
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README
+    runs-on: windows-2019
+    steps:
+      - uses: actions/checkout@main
+        with:
+          repository: minhhungit/github-action-rss-crawler
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: 3.1.x
+      #- run: dotnet build DemoApp\DemoApp.sln      
+      - run: dotnet run --project RssCrawler\RssCrawler.csproj
+      - run: git config --local user.email "it.minhhung@gmail.com"
+      - run: git config --local user.name "Jin"
+      - run: git add .
+      - run: git commit -m "Add changes"
+      - run: git push
+      
+        
+          
+      

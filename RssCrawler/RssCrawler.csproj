@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CodeHollow.FeedReader" Version="1.2.1" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.24" />
+    <PackageReference Include="LiteDB" Version="5.0.9" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="3.1.6" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="System.ServiceModel.Syndication" Version="4.7.0" />
+  </ItemGroup>
+
+</Project>

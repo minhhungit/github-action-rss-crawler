@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RssCrawler/.vs/RssCrawler/v16
+/RssCrawler/bin/Debug/netcoreapp3.1
+/RssCrawler/obj

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RssCrawler", "RssCrawler.csproj", "{676BAF4F-EAB1-432F-8476-1B6299347266}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{6189F359-BD66-40C6-BA04-AA02F98DE14A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{FE137A13-6E58-4F27-8D9D-940C86112465}"
+	ProjectSection(SolutionItems) = preProject
+		..\.github\workflows\crawl-rss.yml = ..\.github\workflows\crawl-rss.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{676BAF4F-EAB1-432F-8476-1B6299347266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676BAF4F-EAB1-432F-8476-1B6299347266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676BAF4F-EAB1-432F-8476-1B6299347266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676BAF4F-EAB1-432F-8476-1B6299347266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FE137A13-6E58-4F27-8D9D-940C86112465} = {6189F359-BD66-40C6-BA04-AA02F98DE14A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33DCE606-3D32-42A5-91EF-6C58F2800E7C}
+	EndGlobalSection
+EndGlobal
