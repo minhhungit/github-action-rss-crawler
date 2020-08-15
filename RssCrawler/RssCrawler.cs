@@ -15,7 +15,7 @@ namespace RssCrawler
 {
     public class RssCrawler
     {
-        public static void Crawl()
+        public static void CrawlRs()
         {
             var logFolder = $"{Path.Combine(EnvironmentHelper.GetApplicationRoot(), "../Logs/")}";
             if (!Directory.Exists(logFolder))
@@ -34,7 +34,7 @@ namespace RssCrawler
 
                 _logger.Info($"There are {channels.Count} active channels");
 
-                channels = channels.Take(5).ToList();
+                //channels = channels.Take(5).ToList();
 
                 foreach (var channel in channels)
                 {
