@@ -10,4 +10,4 @@ Steps:
   
 Github Action does all above steps, it will run rss crawler every 2 hours
 
-<img src="https://raw.githubusercontent.com/minhhungit/github-action-rss-crawler/master/wiki/images/demo.png" />
+<img src="https://raw.githubusercontent.com/minhhungit/github-action-rss-crawler/master/images/demo.png" />
