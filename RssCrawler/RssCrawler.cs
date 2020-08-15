@@ -4,7 +4,6 @@ using Newtonsoft.Json;
 using RssCrawler.Models;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.Globalization;
 using System.IO;
 using System.Linq;
