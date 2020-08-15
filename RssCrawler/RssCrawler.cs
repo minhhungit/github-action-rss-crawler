@@ -1,7 +1,6 @@
 ﻿using HtmlAgilityPack;
 using LiteDB;
 using Newtonsoft.Json;
-using NLog;
 using RssCrawler.Models;
 using System;
 using System.Collections.Generic;
@@ -18,7 +17,15 @@ namespace RssCrawler
     {
         public static void Crawl()
         {
-            var _logger = LogManager.GetCurrentClassLogger();
+            var logFolder = $"{Path.Combine(EnvironmentHelper.GetApplicationRoot(), "../Logs/")}";
+            if (!Directory.Exists(logFolder))
+            {
+                Directory.CreateDirectory(logFolder);
+            }
+
+            var logPath = $"{Path.Combine(logFolder, $"{DateTime.Now:yyyMMdd}-crawler.txt")}";
+
+            var _logger = new MyLogger(logPath);
 
             var feedUrl = string.Empty;
             try

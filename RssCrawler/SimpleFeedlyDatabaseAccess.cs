@@ -4,7 +4,6 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text.RegularExpressions;
 
 namespace RssCrawler
 {
@@ -14,20 +13,11 @@ namespace RssCrawler
 
         public static string GetDbPath()
         {
-            var rootPath = GetApplicationRoot();
+            var rootPath = EnvironmentHelper.GetApplicationRoot();
 
             return Path.Combine(rootPath, "../", DbName);
         }
-
-        public static string GetApplicationRoot()
-        {
-            var exePath = Path.GetDirectoryName(System.Reflection
-                              .Assembly.GetExecutingAssembly().CodeBase);
-            Regex appPathMatcher = new Regex(@"(?<!fil)[A-Za-z]:\\+[\S\s]*?(?=\\+bin)");
-            var appRoot = appPathMatcher.Match(exePath).Value;
-            return appRoot;
-        }
-
+        
         public static List<RssChannelRow> GetActiveChannels()
         {
             var result = new List<RssChannelRow>();
