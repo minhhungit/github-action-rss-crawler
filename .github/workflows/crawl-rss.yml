@@ -1,7 +1,7 @@
 on:
   schedule:
-    # Runs every 2h
-    - cron: '0 */2 * * *'
+    # Runs every 4h
+    - cron: '0 */4 * * *'
   workflow_dispatch:
   
 jobs:
