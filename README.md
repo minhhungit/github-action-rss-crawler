@@ -7,7 +7,7 @@ Steps:
   - Read channel urls from LiteDB
   - Fetch rss feed items
   - Insert feed items into LiteDB after checking blacklist and existing
-  - Generate all rss items to static page (index.html) https://minhhungit.github.io/github-action-rss-crawler/
+  - Generate all rss items to static page (index.html - https://minhhungit.github.io/github-action-rss-crawler/ )
   - Commit change (litedb database & index.html page)
   - Push
   
@@ -42,5 +42,10 @@ jobs:
 
 > https://github.com/minhhungit/github-action-rss-crawler/blob/master/.github/workflows/crawl-rss.yml
 
+---
+
 ### Demo
+
+> https://minhhungit.github.io/github-action-rss-crawler/
+
 <img src="https://raw.githubusercontent.com/minhhungit/github-action-rss-crawler/master/images/demo.png" />
