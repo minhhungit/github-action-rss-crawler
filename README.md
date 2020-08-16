@@ -11,7 +11,7 @@ Steps:
   - Commit change (litedb database & index.html page)
   - Push
   
-## Workflow
+### Workflow
 ```yml
 on:
   schedule:
@@ -42,5 +42,5 @@ jobs:
 
 > https://github.com/minhhungit/github-action-rss-crawler/blob/master/.github/workflows/crawl-rss.yml
 
-## Demo
+### Demo
 <img src="https://raw.githubusercontent.com/minhhungit/github-action-rss-crawler/master/images/demo.png" />
