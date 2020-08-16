@@ -2,6 +2,7 @@
 using RssCrawler.Utils;
 using System.Collections.Specialized;
 using System.IO;
+using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
@@ -26,6 +27,7 @@ namespace RssCrawler
             var change = string.Empty; //$"Hello, this text is auto generated {DateTime.Now:yyy/MM/dd HH:mm:ss}";
 
             var feedItems = SimpleFeedlyDatabaseAccess.GetAllFeedItems();
+            feedItems = feedItems.Where(x => !x.Channel.Title.Contains("medium", System.StringComparison.CurrentCultureIgnoreCase)).ToList(); // I hate medium rss
 
             ObjectId currentChannelId = null;
 
