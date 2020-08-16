@@ -1,15 +1,15 @@
-## Rss Cralwer using Github Action
+## Rss auto crawling using Github Action
+
+**Github Action does all these steps automatically, it run rss crawler every 4 hours**
 
 Steps:
-  - Build project
-  - Read channel url from LiteDB
-  - Fetch rss feed item and insert into LiteDB (10 newest items)
-  - Generate rss item viewer static page https://minhhungit.github.io/github-action-rss-crawler/
-  - Commit change
+  - Git action pull repository, build and run crawler project (C#)
+  - Read channel urls from LiteDB
+  - Fetch rss feed items
+  - Insert feed items into LiteDB after checking blacklist and existing
+  - Generate all rss items to static page (index.html) https://minhhungit.github.io/github-action-rss-crawler/
+  - Commit change (litedb database & index.html page)
   - Push
   
->**Github Action does all above steps, it will run rss crawler every 4 hours**
-
-
 ## Demo
 <img src="https://raw.githubusercontent.com/minhhungit/github-action-rss-crawler/master/images/demo.png" />
