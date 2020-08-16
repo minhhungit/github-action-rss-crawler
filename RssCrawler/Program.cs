@@ -1,5 +1,6 @@
 ﻿using LiteDB;
 using RssCrawler.Utils;
+using System.Collections.Specialized;
 using System.IO;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -36,6 +37,13 @@ namespace RssCrawler
             {
                 var isNewChannel = item.Channel.Id != currentChannelId;
                 currentChannelId = item.Channel.Id;
+
+                // just get top 20 feed items
+                if (counter > 20 && !isNewChannel)
+                {
+                    counter++;
+                    continue;
+                }
 
                 if (isNewChannel)
                 {
