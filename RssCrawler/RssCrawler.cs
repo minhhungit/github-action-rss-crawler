@@ -138,11 +138,11 @@ namespace RssCrawler
 
                                         if (!SimpleFeedlyDatabaseAccess.IsExistedFeedItem(channel.Id, channelDomainGroup, feedItem.FeedItemKey))
                                         {
-                                            var coverImageUrl = fItem.GetFeedCoverImage();
-                                            if (!string.IsNullOrWhiteSpace(coverImageUrl))
-                                            {
-                                                feedItem.CoverImageUrl = coverImageUrl;
-                                            }
+                                            //var coverImageUrl = fItem.GetFeedCoverImage();
+                                            //if (!string.IsNullOrWhiteSpace(coverImageUrl))
+                                            //{
+                                            //    feedItem.CoverImageUrl = coverImageUrl;
+                                            //}
 
                                             insertItems.Add(feedItem);
                                         }                                        
