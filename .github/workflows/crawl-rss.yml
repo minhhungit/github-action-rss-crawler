@@ -6,7 +6,7 @@ on:
   
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README
+    name: Crawl rss and generate static page
     runs-on: windows-2019
     steps:
       - uses: actions/checkout@main
