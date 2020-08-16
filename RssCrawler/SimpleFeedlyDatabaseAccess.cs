@@ -84,7 +84,7 @@ namespace RssCrawler
             {
                 var col = db.GetCollection<RssFeedItemRow>("feedItems");
 
-                item.RssChannelDomainGroup = string.IsNullOrEmpty(item.RssChannelDomainGroup) ? item.Link : item.RssChannelDomainGroup;
+                //item.RssChannelDomainGroup = string.IsNullOrEmpty(item.RssChannelDomainGroup) ? item.Link : item.RssChannelDomainGroup;
                 item.PublishingDate = item.PublishingDate == null || item.PublishingDate == DateTime.MinValue ? DateTime.Now : item.PublishingDate;
 
                 col.Insert(item);
@@ -104,7 +104,7 @@ namespace RssCrawler
 
                 foreach (var item in items)
                 {
-                    item.RssChannelDomainGroup = string.IsNullOrEmpty(item.RssChannelDomainGroup) ? item.Link : item.RssChannelDomainGroup;
+                    //item.RssChannelDomainGroup = string.IsNullOrEmpty(item.RssChannelDomainGroup) ? item.Link : item.RssChannelDomainGroup;
                     item.PublishingDate = item.PublishingDate == null || item.PublishingDate == DateTime.MinValue ? DateTime.Now : item.PublishingDate;
                 }               
 
@@ -124,6 +124,28 @@ namespace RssCrawler
                     .OrderBy(x => x.Channel.Id)
                     .ThenByDescending(x => x.PublishingDate)
                     ?.ToList() ?? new List<RssFeedItemRow>();
+            }
+        }
+
+        public static bool IsBlackListWord(string md5String)
+        {
+            using (var db = new LiteDatabase(GetDbPath()))
+            {
+                var col = db.GetCollection<BlacklistRow>("blacklists");
+
+                return col.Exists(x => x.ShrinkedTitleHash == md5String);
+            }
+        }
+
+        public static bool IsExistedFeedItem(ObjectId channelId, string channelDomainGroup, string feedItemKey)
+        {
+            using (var db = new LiteDatabase(GetDbPath()))
+            {
+                var col = db.GetCollection<RssFeedItemRow>("feedItems");
+
+                return col
+                    .Include(x => x.Channel)
+                    .Exists(x => x.Channel.Id == channelId && (x.Channel.DomainGroup == null ? x.Channel.Link : x.Channel.DomainGroup) == channelDomainGroup && x.FeedItemKey == feedItemKey);
             }
         }
     }

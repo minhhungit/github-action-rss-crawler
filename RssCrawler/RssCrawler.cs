@@ -88,10 +88,10 @@ namespace RssCrawler
 
                         if (feed != null && feed?.Items != null)
                         {
-                            var top10LatestItems = feed.Items
-                                .OrderByDescending(x => x.PublishingDate)
-                                .Take(10)
-                                .ToList();
+                            var top10LatestItems = feed.Items;
+                                //.OrderByDescending(x => x.PublishingDate)
+                                //.Take(10)
+                                //.ToList();
 
                             if (top10LatestItems.Count == 0)
                             {
@@ -99,8 +99,8 @@ namespace RssCrawler
                             }
                             else
                             {
-                                SimpleFeedlyDatabaseAccess.DeleteAllFeedItemByChannelId(channel.Id);
-                                _logger.Info($"  - Deleted old items");
+                                //SimpleFeedlyDatabaseAccess.DeleteAllFeedItemByChannelId(channel.Id);
+                                //_logger.Info($"  - Deleted old items");
 
                                 var insertItems = new List<RssFeedItemRow>();
 
@@ -121,7 +121,6 @@ namespace RssCrawler
                                     var feedItem = new RssFeedItemRow
                                     {
                                         Channel = channel,
-                                        RssChannelDomainGroup = channel.DomainGroup,
                                         FeedItemKey = feedItemKey,
                                         Title = string.IsNullOrWhiteSpace(fItem.Title) ? fItem.Link : fItem.Title,
                                         Link = fItem.Link,
@@ -129,14 +128,25 @@ namespace RssCrawler
                                         PublishingDate = fItem.PublishingDate,
                                         Author = fItem.Author
                                     };
+                                    
+                                    var shrinkedTitle = StringUtils.UnsignString(StringUtils.RemoveNonAlphaCharactersAndDigit(feedItem.Title)).ToLower();
+                                    var shrinkedTitleHash = StringUtils.MD5Hash(shrinkedTitle);
 
-                                    var coverImageUrl = fItem.GetFeedCoverImage();
-                                    if (!string.IsNullOrWhiteSpace(coverImageUrl))
+                                    if (!SimpleFeedlyDatabaseAccess.IsBlackListWord(shrinkedTitleHash))
                                     {
-                                        feedItem.CoverImageUrl = coverImageUrl;
-                                    }
+                                        var channelDomainGroup = string.IsNullOrEmpty(channel.DomainGroup) ? channel.Link : channel.DomainGroup;
 
-                                    insertItems.Add(feedItem);
+                                        if (!SimpleFeedlyDatabaseAccess.IsExistedFeedItem(channel.Id, channelDomainGroup, feedItem.FeedItemKey))
+                                        {
+                                            var coverImageUrl = fItem.GetFeedCoverImage();
+                                            if (!string.IsNullOrWhiteSpace(coverImageUrl))
+                                            {
+                                                feedItem.CoverImageUrl = coverImageUrl;
+                                            }
+
+                                            insertItems.Add(feedItem);
+                                        }                                        
+                                    }
                                 }
 
                                 SimpleFeedlyDatabaseAccess.InsertFeedItems(insertItems);

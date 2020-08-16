@@ -18,8 +18,6 @@ namespace RssCrawler.Models
         public string Content { get; set; }
         public bool IsChecked { get; set; }
 
-        public string RssChannelTitle { get; set; }
-        public string RssChannelDomainGroup { get; set; }
         public string CoverImageUrl { get; set; }
         public string XmlData { get; set; }
     }
