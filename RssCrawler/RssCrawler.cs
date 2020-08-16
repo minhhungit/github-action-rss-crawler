@@ -151,7 +151,7 @@ namespace RssCrawler
 
                                 SimpleFeedlyDatabaseAccess.InsertFeedItems(insertItems);
 
-                                _logger.Info($"  - Inserted {insertItems} items");
+                                _logger.Info($"  - Inserted {insertItems.Count()} items");
                             }
 
                             SimpleFeedlyDatabaseAccess.UpdateChannelErrorStatus(channel.Id, false, null);
