@@ -40,8 +40,6 @@ jobs:
       - run: git push
 ```
 
-> https://github.com/minhhungit/github-action-rss-crawler/blob/master/.github/workflows/crawl-rss.yml
-
 ---
 
 ### Demo
