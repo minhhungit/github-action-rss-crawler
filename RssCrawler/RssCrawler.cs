@@ -59,6 +59,7 @@ namespace RssCrawler
             try
             {
                 List<RssChannelRow> channels = channels = SimpleFeedlyDatabaseAccess.GetActiveChannels().OrderBy(x => x.Id).ToList();
+                channels = channels.Where(x => !x.Link.Contains("medium", StringComparison.CurrentCultureIgnoreCase)).ToList(); // I hate medium rss
 
                 _logger.Info($"There are {channels.Count} active channels");
 
