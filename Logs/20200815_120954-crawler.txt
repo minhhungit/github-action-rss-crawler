@@ -1,4 +1,0 @@
-INFO	There are 460 active channels
-INFO	- [1/460] Fetching url https://damienbod.com/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
