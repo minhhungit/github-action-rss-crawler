@@ -65,7 +65,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [17/460] Fetching url https://viblo.asia/rss
 INFO	  - Nbr of feed items 40
-INFO	  - Inserted 12 items
+INFO	  - Inserted 3 items
 INFO	  - Updated status
 INFO	- [18/460] Fetching url https://blogs.msdn.microsoft.com/visualstudio/feed
 INFO	  - Nbr of feed items 10
@@ -85,7 +85,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [22/460] Fetching url https://www.alvinashcraft.com/feed
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [23/460] Fetching url http://feeds.feedburner.com/RadenkoZecBlog
 INFO	  - Nbr of feed items 10
@@ -111,7 +111,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [29/460] Fetching url http://dotnetkicks.com/feeds/rss
 INFO	  - Nbr of feed items 100
-INFO	  - Inserted 1 items
+INFO	  - Inserted 18 items
 INFO	  - Updated status
 INFO	- [30/460] Fetching url https://stackify.com/feed
 INFO	  - Nbr of feed items 10
@@ -233,7 +233,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [60/460] Fetching url http://feeds.feedburner.com/CssTricks
 INFO	  - Nbr of feed items 10
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [61/460] Fetching url http://michaelsoriano.com/blog/feed
 INFO	  - Nbr of feed items 10
@@ -248,7 +248,7 @@ INFO	  - Nbr of feed items 45
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [64/460] Fetching url https://www.exceptionnotfound.net/rss
-INFO	  - Nbr of feed items 392
+INFO	  - Nbr of feed items 394
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [65/460] Fetching url http://feeds.feedburner.com/PrimaryObjects
@@ -265,7 +265,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [68/460] Fetching url https://www.c-sharpcorner.com/rss/latestcontentall.aspx
 INFO	  - Nbr of feed items 30
-INFO	  - Inserted 5 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [69/460] Fetching url https://vuejsdevelopers.com/feed.xml
 INFO	  - Nbr of feed items 10
@@ -280,9 +280,7 @@ INFO	  - Nbr of feed items 20
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [72/460] Fetching url https://www.spiria.com/en/blog/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Inserted 0 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [73/460] Fetching url https://ardalis.com/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Inserted 0 items
@@ -296,12 +294,12 @@ INFO	  - Nbr of feed items 15
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [76/460] Fetching url http://markhneedham.com/blog/index.xml
-INFO	  - Nbr of feed items 1738
+INFO	  - Nbr of feed items 1739
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [77/460] Fetching url https://itnext.io/feed
 INFO	  - Nbr of feed items 10
-INFO	  - Inserted 1 items
+INFO	  - Inserted 2 items
 INFO	  - Updated status
 INFO	- [78/460] Fetching url https://weblogs.asp.net/scottgu/rss?containerid=13
 INFO	  - Nbr of feed items 20
@@ -329,7 +327,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [84/460] Fetching url https://codeburst.io/feed
 INFO	  - Nbr of feed items 10
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [85/460] Fetching url https://medium.com/feed/@samwsoftware
 INFO	  - Nbr of feed items 10
@@ -469,7 +467,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [119/460] Fetching url https://blog.huntresslabs.com/feed
 INFO	  - Nbr of feed items 10
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [120/460] Fetching url https://medium.com/feed/@cannyinformatic
 INFO	  - Nbr of feed items 10
@@ -513,15 +511,15 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [130/460] Fetching url https://uxdesign.cc/feed
 INFO	  - Nbr of feed items 10
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [131/460] Fetching url https://medium.com/feed/@js_tut
 INFO	  - Nbr of feed items 10
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [132/460] Fetching url https://blog.bitsrc.io/feed
 INFO	  - Nbr of feed items 10
-INFO	  - Inserted 0 items
+INFO	  - Inserted 3 items
 INFO	  - Updated status
 INFO	- [133/460] Fetching url https://medium.com/feed/glitch
 INFO	  - Nbr of feed items 10
@@ -584,7 +582,7 @@ INFO	  - Nbr of feed items 10
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [148/460] Fetching url https://www.carlrippon.com/rss.xml
-INFO	  - Nbr of feed items 157
+INFO	  - Nbr of feed items 161
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [149/460] Fetching url https://medium.com/feed/@varunraj22
@@ -629,7 +627,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [159/460] Fetching url https://blog.logrocket.com/feed
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 0 items
+INFO	  - Inserted 3 items
 INFO	  - Updated status
 INFO	- [160/460] Fetching url https://medium.com/feed/dev-channel
 INFO	  - Nbr of feed items 10
@@ -661,11 +659,11 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [167/460] Fetching url https://www.c-sharpcorner.com/rss/blogs.aspx
 INFO	  - Nbr of feed items 100
-INFO	  - Inserted 2 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [168/460] Fetching url https://medium.com/feed/@joelthoms
 INFO	  - Nbr of feed items 10
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [169/460] Fetching url http://www.takethiscourse.net/feed
 INFO	  - Nbr of feed items 10
@@ -684,7 +682,7 @@ INFO	  - Nbr of feed items 10
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [173/460] Fetching url https://stackshare.io/featured-posts.atom
-INFO	  - Nbr of feed items 227
+INFO	  - Nbr of feed items 228
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [174/460] Fetching url https://sachabarbs.wordpress.com/feed
@@ -832,7 +830,7 @@ INFO	  - Nbr of feed items 10
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [210/460] Fetching url http://feeds.feedburner.com/2ality
-INFO	  - Nbr of feed items 27
+INFO	  - Nbr of feed items 28
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [211/460] Fetching url https://adamstorr.azurewebsites.net/feed.atom
@@ -1045,7 +1043,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [264/460] Fetching url https://feed.infoq.com
 INFO	  - Nbr of feed items 15
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [265/460] Fetching url https://devblogs.microsoft.com/dotnet/feed
 INFO	  - Nbr of feed items 10
@@ -1053,7 +1051,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [266/460] Fetching url http://feeds.dzone.com/home
 INFO	  - Nbr of feed items 30
-INFO	  - Inserted 0 items
+INFO	  - Inserted 5 items
 INFO	  - Updated status
 INFO	- [267/460] Fetching url https://visualstudiomagazine.com/rss-feeds/news.aspx
 INFO	  - Nbr of feed items 60
@@ -1064,9 +1062,7 @@ INFO	  - Nbr of feed items 10
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [269/460] Fetching url https://gunnarpeipman.com/feed
-INFO	  - Nbr of feed items 30
-INFO	  - Inserted 0 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [270/460] Fetching url https://www.cafe-encounter.net/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Inserted 0 items
@@ -1093,7 +1089,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [276/460] Fetching url https://csharp.christiannagel.com/feed
 INFO	  - Nbr of feed items 10
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [277/460] Fetching url https://weblogs.asp.net/jongalloway/rss
 INFO	  - Nbr of feed items 20
@@ -1251,7 +1247,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [316/460] Fetching url https://dev.to/feed
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [317/460] Fetching url https://coderethinked.com/feed
 INFO	  - Nbr of feed items 10
@@ -1377,7 +1373,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [348/460] Fetching url https://kubernetes.io/feed.xml
 INFO	  - Nbr of feed items 50
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [349/460] Fetching url https://carlos.mendible.com/feed.xml
 INFO	  - Nbr of feed items 10
@@ -1388,9 +1384,7 @@ INFO	  - Nbr of feed items 6
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [351/460] Fetching url https://gokhanatil.com/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Inserted 0 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [352/460] Fetching url https://stefanprodan.com/feed.xml
 INFO	  - Nbr of feed items 10
 INFO	  - Inserted 0 items
@@ -1480,7 +1474,7 @@ INFO	  - Nbr of feed items 10
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [374/460] Fetching url https://www.alachisoft.com/blogs/feed
-INFO	  - Nbr of feed items 160
+INFO	  - Nbr of feed items 162
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [375/460] Fetching url https://minhhungit.github.io/atom.xml
@@ -1488,7 +1482,7 @@ INFO	  - Nbr of feed items 9
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [376/460] Fetching url https://khalidabuhakmeh.com/feed.xml
-INFO	  - Nbr of feed items 95
+INFO	  - Nbr of feed items 98
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [377/460] Fetching url https://lcdung.top/feed
@@ -1557,7 +1551,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [393/460] Fetching url https://www.brentozar.com/feed
 INFO	  - Nbr of feed items 4
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [394/460] Fetching url https://bytefish.de/feeds/rss.xml
 INFO	  - Nbr of feed items 10
@@ -1569,7 +1563,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [396/460] Fetching url https://trituenhantao.info/feed
 INFO	  - Nbr of feed items 5
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [397/460] Fetching url https://medium.com/feed/timescale
 INFO	  - Nbr of feed items 10
@@ -1609,7 +1603,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [406/460] Fetching url https://medium.com/feed/better-programming
 INFO	  - Nbr of feed items 10
-INFO	  - Inserted 0 items
+INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [407/460] Fetching url https://towardsdatascience.com/feed
 INFO	  - Nbr of feed items 10
@@ -1633,7 +1627,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [412/460] Fetching url https://feeds.feedburner.com/OktaDeveloperBlog
 INFO	  - Nbr of feed items 8
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [413/460] Fetching url https://medium.com/feed/@davidtranwd
 INFO	  - Nbr of feed items 10
@@ -1641,7 +1635,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [414/460] Fetching url https://www.elastic.co/blog/feed
 INFO	  - Nbr of feed items 20
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [415/460] Fetching url https://medium.com/feed/@danijelhdev
 INFO	  - Nbr of feed items 2
@@ -1719,11 +1713,11 @@ INFO	  - Inserted 12 items
 INFO	  - Updated status
 INFO	- [434/460] Fetching url https://dev.to/feed/tag/webdev
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 11 items
+INFO	  - Inserted 12 items
 INFO	  - Updated status
 INFO	- [435/460] Fetching url https://dev.to/feed/tag/react
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 7 items
+INFO	  - Inserted 9 items
 INFO	  - Updated status
 INFO	- [436/460] Fetching url https://dev.to/feed/tag/tutorial
 INFO	  - Nbr of feed items 12
@@ -1731,15 +1725,15 @@ INFO	  - Inserted 6 items
 INFO	  - Updated status
 INFO	- [437/460] Fetching url https://dev.to/feed/tag/devops
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 2 items
+INFO	  - Inserted 5 items
 INFO	  - Updated status
 INFO	- [438/460] Fetching url https://dev.to/feed/tag/showdev
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 2 items
+INFO	  - Inserted 3 items
 INFO	  - Updated status
 INFO	- [439/460] Fetching url https://dev.to/feed/tag/programming
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [440/460] Fetching url https://dev.to/feed/tag/typescript
 INFO	  - Nbr of feed items 12
@@ -1747,7 +1741,7 @@ INFO	  - Inserted 2 items
 INFO	  - Updated status
 INFO	- [441/460] Fetching url https://dev.to/feed/tag/aws
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 0 items
+INFO	  - Inserted 2 items
 INFO	  - Updated status
 INFO	- [442/460] Fetching url https://dev.to/feed/tag/angular
 INFO	  - Nbr of feed items 12
@@ -1755,11 +1749,11 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [443/460] Fetching url https://dev.to/feed/tag/vue
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 0 items
+INFO	  - Inserted 5 items
 INFO	  - Updated status
 INFO	- [444/460] Fetching url https://dev.to/feed/tag/docker
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 2 items
+INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [445/460] Fetching url https://dev.to/feed/tag/csharp
 INFO	  - Nbr of feed items 12
@@ -1775,15 +1769,15 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [448/460] Fetching url https://dev.to/feed/tag/serverless
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [449/460] Fetching url https://dev.to/feed/tag/database
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [450/460] Fetching url https://dev.to/feed/tag/kubernetes
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 2 items
+INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [451/460] Fetching url https://dev.to/feed/tag/azure
 INFO	  - Nbr of feed items 12
@@ -1795,11 +1789,11 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [453/460] Fetching url https://dev.to/feed/tag/api
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 3 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [454/460] Fetching url https://dev.to/feed/tag/frontend
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [455/460] Fetching url https://dev.to/feed/tag/flutter
 INFO	  - Nbr of feed items 12
@@ -1811,7 +1805,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [457/460] Fetching url https://dev.to/feed/tag/sql
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [458/460] Fetching url https://dev.to/feed/tag/mongodb
 INFO	  - Nbr of feed items 12
@@ -1819,7 +1813,7 @@ INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [459/460] Fetching url https://dev.to/feed/tag/firebase
 INFO	  - Nbr of feed items 12
-INFO	  - Inserted 0 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [460/460] Fetching url https://dev.to/feed/tag/interview
 INFO	  - Nbr of feed items 12
