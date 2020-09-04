@@ -99,8 +99,8 @@ namespace RssCrawler
                             }
                             else
                             {
-                                //SimpleFeedlyDatabaseAccess.DeleteAllFeedItemByChannelId(channel.Id);
-                                //_logger.Info($"  - Deleted old items");
+                                SimpleFeedlyDatabaseAccess.DeleteAllFeedItemByChannelId(channel.Id);
+                                _logger.Info($"  - Deleted old items");
 
                                 var insertItems = new List<RssFeedItemRow>();
 
