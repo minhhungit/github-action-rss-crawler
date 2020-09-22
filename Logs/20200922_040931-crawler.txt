@@ -309,9 +309,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 45 items
 INFO	  - Updated status
 INFO	- [64/460] Fetching url https://www.exceptionnotfound.net/rss
-INFO	  - Nbr of feed items 396
+INFO	  - Nbr of feed items 399
 INFO	  - Deleted old items
-INFO	  - Inserted 396 items
+INFO	  - Inserted 399 items
 INFO	  - Updated status
 INFO	- [65/460] Fetching url http://feeds.feedburner.com/PrimaryObjects
 INFO	  - Nbr of feed items 103
@@ -324,9 +324,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 15 items
 INFO	  - Updated status
 INFO	- [67/460] Fetching url https://visualstudiomagazine.com/rss-feeds/blogs.aspx
-INFO	  - Nbr of feed items 12
+INFO	  - Nbr of feed items 9
 INFO	  - Deleted old items
-INFO	  - Inserted 12 items
+INFO	  - Inserted 9 items
 INFO	  - Updated status
 INFO	- [68/460] Fetching url https://www.c-sharpcorner.com/rss/latestcontentall.aspx
 INFO	  - Nbr of feed items 30
@@ -729,9 +729,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [148/460] Fetching url https://www.carlrippon.com/rss.xml
-INFO	  - Nbr of feed items 162
+INFO	  - Nbr of feed items 163
 INFO	  - Deleted old items
-INFO	  - Inserted 162 items
+INFO	  - Inserted 163 items
 INFO	  - Updated status
 INFO	- [149/460] Fetching url https://medium.com/feed/@varunraj22
 INFO	  - Nbr of feed items 10
@@ -854,9 +854,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [173/460] Fetching url https://stackshare.io/featured-posts.atom
-INFO	  - Nbr of feed items 229
+INFO	  - Nbr of feed items 230
 INFO	  - Deleted old items
-INFO	  - Inserted 229 items
+INFO	  - Inserted 230 items
 INFO	  - Updated status
 INFO	- [174/460] Fetching url https://sachabarbs.wordpress.com/feed
 INFO	  - Nbr of feed items 30
@@ -1004,9 +1004,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [203/460] Fetching url http://www.dotnetcurry.com/GetArticlesRss.aspx?CatID=90
-INFO	  - Nbr of feed items 1
+INFO	  - Nbr of feed items 2
 INFO	  - Deleted old items
-INFO	  - Inserted 1 items
+INFO	  - Inserted 2 items
 INFO	  - Updated status
 INFO	- [204/460] Fetching url http://www.dotnetcurry.com/GetArticlesRss.aspx?CatID=91
 INFO	  - Nbr of feed items 2
@@ -1164,14 +1164,20 @@ INFO	  - Deleted old items
 INFO	  - Inserted 35 items
 INFO	  - Updated status
 INFO	- [235/460] Fetching url http://rion.io/rss
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 15
+INFO	  - Deleted old items
+INFO	  - Inserted 14 items
+INFO	  - Updated status
 INFO	- [236/460] Fetching url https://tungnt.net/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [237/460] Fetching url http://www.asktester.com/feed
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted 10 items
+INFO	  - Updated status
 INFO	- [238/460] Fetching url https://duythanhcse.wordpress.com/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -1425,9 +1431,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 5 items
 INFO	  - Updated status
 INFO	- [289/460] Fetching url https://blog.ndepend.com/feed
-INFO	  - Nbr of feed items 10
+INFO	  - Nbr of feed items 30
 INFO	  - Deleted old items
-INFO	  - Inserted 10 items
+INFO	  - Inserted 30 items
 INFO	  - Updated status
 INFO	- [290/460] Fetching url https://vcsjones.com/feed.xml
 INFO	  - Nbr of feed items 10
@@ -1567,10 +1573,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [318/460] Fetching url https://www.meziantou.net/?format=rss
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [319/460] Fetching url http://feeds.feedburner.com/wesbos/ZXAx
 INFO	  - Nbr of feed items 115
 INFO	  - Deleted old items
@@ -1664,9 +1667,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 9 items
 INFO	  - Updated status
 INFO	- [338/460] Fetching url https://blog.codingmilitia.com/feed.xml
-INFO	  - Nbr of feed items 109
+INFO	  - Nbr of feed items 110
 INFO	  - Deleted old items
-INFO	  - Inserted 109 items
+INFO	  - Inserted 110 items
 INFO	  - Updated status
 INFO	- [339/460] Fetching url https://jack-vanlightly.com/blog?format=RSS
 INFO	  - Nbr of feed items 20
@@ -1841,9 +1844,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [374/460] Fetching url https://www.alachisoft.com/blogs/feed
-INFO	  - Nbr of feed items 163
+INFO	  - Nbr of feed items 165
 INFO	  - Deleted old items
-INFO	  - Inserted 163 items
+INFO	  - Inserted 165 items
 INFO	  - Updated status
 INFO	- [375/460] Fetching url https://minhhungit.github.io/atom.xml
 INFO	  - Nbr of feed items 9
@@ -2200,7 +2203,7 @@ INFO	  - Updated status
 INFO	- [446/460] Fetching url https://dev.to/feed/tag/go
 INFO	  - Nbr of feed items 12
 INFO	  - Deleted old items
-INFO	  - Inserted 12 items
+INFO	  - Inserted 11 items
 INFO	  - Updated status
 INFO	- [447/460] Fetching url https://dev.to/feed/tag/dotnet
 INFO	  - Nbr of feed items 12
