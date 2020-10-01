@@ -309,9 +309,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 45 items
 INFO	  - Updated status
 INFO	- [64/460] Fetching url https://www.exceptionnotfound.net/rss
-INFO	  - Nbr of feed items 398
+INFO	  - Nbr of feed items 401
 INFO	  - Deleted old items
-INFO	  - Inserted 398 items
+INFO	  - Inserted 401 items
 INFO	  - Updated status
 INFO	- [65/460] Fetching url http://feeds.feedburner.com/PrimaryObjects
 INFO	  - Nbr of feed items 103
@@ -729,9 +729,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [148/460] Fetching url https://www.carlrippon.com/rss.xml
-INFO	  - Nbr of feed items 163
+INFO	  - Nbr of feed items 165
 INFO	  - Deleted old items
-INFO	  - Inserted 163 items
+INFO	  - Inserted 165 items
 INFO	  - Updated status
 INFO	- [149/460] Fetching url https://medium.com/feed/@varunraj22
 INFO	  - Nbr of feed items 10
@@ -854,9 +854,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [173/460] Fetching url https://stackshare.io/featured-posts.atom
-INFO	  - Nbr of feed items 230
+INFO	  - Nbr of feed items 232
 INFO	  - Deleted old items
-INFO	  - Inserted 230 items
+INFO	  - Inserted 232 items
 INFO	  - Updated status
 INFO	- [174/460] Fetching url https://sachabarbs.wordpress.com/feed
 INFO	  - Nbr of feed items 30
@@ -1039,9 +1039,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [210/460] Fetching url http://feeds.feedburner.com/2ality
-INFO	  - Nbr of feed items 28
+INFO	  - Nbr of feed items 30
 INFO	  - Deleted old items
-INFO	  - Inserted 28 items
+INFO	  - Inserted 30 items
 INFO	  - Updated status
 INFO	- [211/460] Fetching url https://adamstorr.azurewebsites.net/feed.atom
 INFO	  - Nbr of feed items 20
@@ -1844,9 +1844,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [374/460] Fetching url https://www.alachisoft.com/blogs/feed
-INFO	  - Nbr of feed items 165
+INFO	  - Nbr of feed items 167
 INFO	  - Deleted old items
-INFO	  - Inserted 165 items
+INFO	  - Inserted 167 items
 INFO	  - Updated status
 INFO	- [375/460] Fetching url https://minhhungit.github.io/atom.xml
 INFO	  - Nbr of feed items 9
@@ -1944,7 +1944,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 4 items
 INFO	  - Updated status
 INFO	- [394/460] Fetching url https://bytefish.de/feeds/rss.xml
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted 10 items
+INFO	  - Updated status
 INFO	- [395/460] Fetching url https://www.sqlpassion.at/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
