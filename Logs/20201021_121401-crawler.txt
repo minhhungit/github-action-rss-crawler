@@ -269,10 +269,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [56/460] Fetching url http://hryniewski.net/feed
-INFO	  - Nbr of feed items 74
-INFO	  - Deleted old items
-INFO	  - Inserted 74 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [57/460] Fetching url https://codehollow.com/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -309,9 +306,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 45 items
 INFO	  - Updated status
 INFO	- [64/460] Fetching url https://www.exceptionnotfound.net/rss
-INFO	  - Nbr of feed items 404
+INFO	  - Nbr of feed items 407
 INFO	  - Deleted old items
-INFO	  - Inserted 404 items
+INFO	  - Inserted 407 items
 INFO	  - Updated status
 INFO	- [65/460] Fetching url http://feeds.feedburner.com/PrimaryObjects
 INFO	  - Nbr of feed items 103
@@ -324,9 +321,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 15 items
 INFO	  - Updated status
 INFO	- [67/460] Fetching url https://visualstudiomagazine.com/rss-feeds/blogs.aspx
-INFO	  - Nbr of feed items 8
+INFO	  - Nbr of feed items 5
 INFO	  - Deleted old items
-INFO	  - Inserted 8 items
+INFO	  - Inserted 5 items
 INFO	  - Updated status
 INFO	- [68/460] Fetching url https://www.c-sharpcorner.com/rss/latestcontentall.aspx
 INFO	  - Nbr of feed items 30
@@ -644,10 +641,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [131/460] Fetching url https://medium.com/feed/@js_tut
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [132/460] Fetching url https://blog.bitsrc.io/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -729,9 +723,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [148/460] Fetching url https://www.carlrippon.com/rss.xml
-INFO	  - Nbr of feed items 166
+INFO	  - Nbr of feed items 168
 INFO	  - Deleted old items
-INFO	  - Inserted 166 items
+INFO	  - Inserted 168 items
 INFO	  - Updated status
 INFO	- [149/460] Fetching url https://medium.com/feed/@varunraj22
 INFO	  - Nbr of feed items 10
@@ -776,7 +770,7 @@ INFO	  - Updated status
 INFO	- [157/460] Fetching url https://medium.com/feed/@anthonygore
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
-INFO	  - Inserted 5 items
+INFO	  - Inserted 6 items
 INFO	  - Updated status
 INFO	- [158/460] Fetching url https://medium.com/feed/@drorbiran
 INFO	  - Nbr of feed items 10
@@ -1659,9 +1653,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [337/460] Fetching url https://michielsioen.be/feed
-INFO	  - Nbr of feed items 9
+INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
-INFO	  - Inserted 9 items
+INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [338/460] Fetching url https://blog.codingmilitia.com/feed.xml
 INFO	  - Nbr of feed items 110
@@ -1841,9 +1835,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [374/460] Fetching url https://www.alachisoft.com/blogs/feed
-INFO	  - Nbr of feed items 169
+INFO	  - Nbr of feed items 171
 INFO	  - Deleted old items
-INFO	  - Inserted 169 items
+INFO	  - Inserted 171 items
 INFO	  - Updated status
 INFO	- [375/460] Fetching url https://minhhungit.github.io/atom.xml
 INFO	  - Nbr of feed items 10
@@ -2120,7 +2114,7 @@ INFO	  - Updated status
 INFO	- [430/460] Fetching url https://medium.com/feed/@letienthanh0212
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
-INFO	  - Inserted 6 items
+INFO	  - Inserted 9 items
 INFO	  - Updated status
 INFO	- [431/460] Fetching url https://medium.com/feed/microservices-for-net-developers
 INFO	  - Nbr of feed items 10
