@@ -297,9 +297,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 45 items
 INFO	  - Updated status
 INFO	- [64/460] Fetching url https://www.exceptionnotfound.net/rss
-INFO	  - Nbr of feed items 417
+INFO	  - Nbr of feed items 419
 INFO	  - Deleted old items
-INFO	  - Inserted 417 items
+INFO	  - Inserted 419 items
 INFO	  - Updated status
 INFO	- [65/460] Fetching url http://feeds.feedburner.com/PrimaryObjects
 INFO	  - Nbr of feed items 104
@@ -312,7 +312,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 15 items
 INFO	  - Updated status
 INFO	- [67/460] Fetching url https://visualstudiomagazine.com/rss-feeds/blogs.aspx
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 60
+INFO	  - Deleted old items
+INFO	  - Inserted 60 items
+INFO	  - Updated status
 INFO	- [68/460] Fetching url https://www.c-sharpcorner.com/rss/latestcontentall.aspx
 INFO	  - Nbr of feed items 30
 INFO	  - Deleted old items
@@ -708,9 +711,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [148/460] Fetching url https://www.carlrippon.com/rss.xml
-INFO	  - Nbr of feed items 173
+INFO	  - Nbr of feed items 174
 INFO	  - Deleted old items
-INFO	  - Inserted 173 items
+INFO	  - Inserted 174 items
 INFO	  - Updated status
 INFO	- [149/460] Fetching url https://medium.com/feed/@varunraj22
 INFO	  - Nbr of feed items 10
@@ -755,7 +758,7 @@ INFO	  - Updated status
 INFO	- [157/460] Fetching url https://medium.com/feed/@anthonygore
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
-INFO	  - Inserted 8 items
+INFO	  - Inserted 9 items
 INFO	  - Updated status
 INFO	- [158/460] Fetching url https://medium.com/feed/@drorbiran
 INFO	  - Nbr of feed items 10
@@ -1634,9 +1637,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [338/460] Fetching url https://blog.codingmilitia.com/feed.xml
-INFO	  - Nbr of feed items 112
+INFO	  - Nbr of feed items 113
 INFO	  - Deleted old items
-INFO	  - Inserted 112 items
+INFO	  - Inserted 113 items
 INFO	  - Updated status
 INFO	- [339/460] Fetching url https://jack-vanlightly.com/blog?format=RSS
 INFO	  - Nbr of feed items 20
@@ -1674,10 +1677,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 64 items
 INFO	  - Updated status
 INFO	- [346/460] Fetching url https://freecoursesite.com/feed
-INFO	  - Nbr of feed items 12
-INFO	  - Deleted old items
-INFO	  - Inserted 12 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [347/460] Fetching url http://collabnix.com/feed
 INFO	  - Nbr of feed items 6
 INFO	  - Deleted old items
@@ -1866,10 +1866,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 145 items
 INFO	  - Updated status
 INFO	- [385/460] Fetching url https://altkomsoftware.pl/en/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [386/460] Fetching url https://medium.com/feed/velacorpblog
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -2060,9 +2057,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [425/460] Fetching url https://medium.com/feed/@taibi.davide
-INFO	  - Nbr of feed items 2
+INFO	  - Nbr of feed items 3
 INFO	  - Deleted old items
-INFO	  - Inserted 2 items
+INFO	  - Inserted 3 items
 INFO	  - Updated status
 INFO	- [426/460] Fetching url https://blog.rsuter.com/feed.xml
 INFO	  - Nbr of feed items 72
