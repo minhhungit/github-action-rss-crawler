@@ -202,7 +202,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 20 items
 INFO	  - Updated status
 INFO	- [45/460] Fetching url http://bitoftech.net/feed
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted 10 items
+INFO	  - Updated status
 INFO	- [46/460] Fetching url https://techbrij.com/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -289,14 +292,14 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [63/460] Fetching url http://feeds.feedburner.com/LosTechies
-INFO	  - Nbr of feed items 45
+INFO	  - Nbr of feed items 50
 INFO	  - Deleted old items
-INFO	  - Inserted 45 items
+INFO	  - Inserted 50 items
 INFO	  - Updated status
 INFO	- [64/460] Fetching url https://www.exceptionnotfound.net/rss
-INFO	  - Nbr of feed items 419
+INFO	  - Nbr of feed items 420
 INFO	  - Deleted old items
-INFO	  - Inserted 419 items
+INFO	  - Inserted 420 items
 INFO	  - Updated status
 INFO	- [65/460] Fetching url http://feeds.feedburner.com/PrimaryObjects
 INFO	  - Nbr of feed items 104
@@ -309,15 +312,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 15 items
 INFO	  - Updated status
 INFO	- [67/460] Fetching url https://visualstudiomagazine.com/rss-feeds/blogs.aspx
-INFO	  - Nbr of feed items 60
-INFO	  - Deleted old items
-INFO	  - Inserted 60 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [68/460] Fetching url https://www.c-sharpcorner.com/rss/latestcontentall.aspx
-INFO	  - Nbr of feed items 30
-INFO	  - Deleted old items
-INFO	  - Inserted 30 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [69/460] Fetching url https://vuejsdevelopers.com/feed.xml
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -354,9 +351,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 14 items
 INFO	  - Updated status
 INFO	- [76/460] Fetching url http://markhneedham.com/blog/index.xml
-INFO	  - Nbr of feed items 1740
+INFO	  - Nbr of feed items 1743
 INFO	  - Deleted old items
-INFO	  - Inserted 1740 items
+INFO	  - Inserted 1743 items
 INFO	  - Updated status
 INFO	- [77/460] Fetching url https://itnext.io/feed
 INFO	  - Nbr of feed items 10
@@ -1805,9 +1802,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [374/460] Fetching url https://www.alachisoft.com/blogs/feed
-INFO	  - Nbr of feed items 173
+INFO	  - Nbr of feed items 174
 INFO	  - Deleted old items
-INFO	  - Inserted 173 items
+INFO	  - Inserted 174 items
 INFO	  - Updated status
 INFO	- [375/460] Fetching url https://minhhungit.github.io/atom.xml
 INFO	  - Nbr of feed items 10
@@ -2111,7 +2108,7 @@ INFO	  - Updated status
 INFO	- [436/460] Fetching url https://dev.to/feed/tag/tutorial
 INFO	  - Nbr of feed items 12
 INFO	  - Deleted old items
-INFO	  - Inserted 11 items
+INFO	  - Inserted 12 items
 INFO	  - Updated status
 INFO	- [437/460] Fetching url https://dev.to/feed/tag/devops
 INFO	  - Nbr of feed items 12
