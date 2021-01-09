@@ -297,9 +297,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 50 items
 INFO	  - Updated status
 INFO	- [64/460] Fetching url https://www.exceptionnotfound.net/rss
-INFO	  - Nbr of feed items 422
+INFO	  - Nbr of feed items 423
 INFO	  - Deleted old items
-INFO	  - Inserted 422 items
+INFO	  - Inserted 423 items
 INFO	  - Updated status
 INFO	- [65/460] Fetching url http://feeds.feedburner.com/PrimaryObjects
 INFO	  - Nbr of feed items 104
@@ -354,9 +354,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 14 items
 INFO	  - Updated status
 INFO	- [76/460] Fetching url http://markhneedham.com/blog/index.xml
-INFO	  - Nbr of feed items 1745
+INFO	  - Nbr of feed items 1747
 INFO	  - Deleted old items
-INFO	  - Inserted 1745 items
+INFO	  - Inserted 1747 items
 INFO	  - Updated status
 INFO	- [77/460] Fetching url https://itnext.io/feed
 INFO	  - Nbr of feed items 10
@@ -563,7 +563,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 8 items
 INFO	  - Updated status
 INFO	- [119/460] Fetching url https://blog.huntresslabs.com/feed
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted 10 items
+INFO	  - Updated status
 INFO	- [120/460] Fetching url https://medium.com/feed/@cannyinformatic
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -1009,9 +1012,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [210/460] Fetching url http://feeds.feedburner.com/2ality
-INFO	  - Nbr of feed items 32
+INFO	  - Nbr of feed items 1
 INFO	  - Deleted old items
-INFO	  - Inserted 32 items
+INFO	  - Inserted 1 items
 INFO	  - Updated status
 INFO	- [211/460] Fetching url https://adamstorr.azurewebsites.net/feed.atom
 INFO	  - Nbr of feed items 20
@@ -1896,10 +1899,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 4 items
 INFO	  - Updated status
 INFO	- [394/460] Fetching url https://bytefish.de/feeds/rss.xml
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [395/460] Fetching url https://www.sqlpassion.at/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -1936,9 +1936,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 9 items
 INFO	  - Updated status
 INFO	- [402/460] Fetching url https://medium.com/feed/@nickfane
-INFO	  - Nbr of feed items 4
+INFO	  - Nbr of feed items 5
 INFO	  - Deleted old items
-INFO	  - Inserted 4 items
+INFO	  - Inserted 5 items
 INFO	  - Updated status
 INFO	- [403/460] Fetching url https://medium.com/feed/it-dead-inside
 INFO	  - Nbr of feed items 10
