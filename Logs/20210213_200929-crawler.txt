@@ -280,9 +280,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [60/460] Fetching url http://feeds.feedburner.com/CssTricks
-INFO	  - Nbr of feed items 10
+INFO	  - Nbr of feed items 15
 INFO	  - Deleted old items
-INFO	  - Inserted 10 items
+INFO	  - Inserted 15 items
 INFO	  - Updated status
 INFO	- [61/460] Fetching url http://michaelsoriano.com/blog/feed
 INFO	  - Nbr of feed items 10
@@ -300,9 +300,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 50 items
 INFO	  - Updated status
 INFO	- [64/460] Fetching url https://www.exceptionnotfound.net/rss
-INFO	  - Nbr of feed items 427
+INFO	  - Nbr of feed items 428
 INFO	  - Deleted old items
-INFO	  - Inserted 427 items
+INFO	  - Inserted 428 items
 INFO	  - Updated status
 INFO	- [65/460] Fetching url http://feeds.feedburner.com/PrimaryObjects
 INFO	  - Nbr of feed items 104
@@ -357,9 +357,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 14 items
 INFO	  - Updated status
 INFO	- [76/460] Fetching url http://markhneedham.com/blog/index.xml
-INFO	  - Nbr of feed items 1748
+INFO	  - Nbr of feed items 1750
 INFO	  - Deleted old items
-INFO	  - Inserted 1748 items
+INFO	  - Inserted 1750 items
 INFO	  - Updated status
 INFO	- [77/460] Fetching url https://itnext.io/feed
 INFO	  - Nbr of feed items 10
@@ -702,9 +702,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [148/460] Fetching url https://www.carlrippon.com/rss.xml
-INFO	  - Nbr of feed items 177
+INFO	  - Nbr of feed items 178
 INFO	  - Deleted old items
-INFO	  - Inserted 177 items
+INFO	  - Inserted 178 items
 INFO	  - Updated status
 INFO	- [149/460] Fetching url https://medium.com/feed/@varunraj22
 INFO	  - Nbr of feed items 6
@@ -732,9 +732,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [154/460] Fetching url https://medium.com/feed/@kcmueller
-INFO	  - Nbr of feed items 7
+INFO	  - Nbr of feed items 6
 INFO	  - Deleted old items
-INFO	  - Inserted 7 items
+INFO	  - Inserted 6 items
 INFO	  - Updated status
 INFO	- [155/460] Fetching url https://medium.com/feed/coding-design
 INFO	  - Nbr of feed items 10
@@ -747,9 +747,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 2 items
 INFO	  - Updated status
 INFO	- [157/460] Fetching url https://medium.com/feed/@anthonygore
-INFO	  - Nbr of feed items 1
+INFO	  - Nbr of feed items 2
 INFO	  - Deleted old items
-INFO	  - Inserted 1 items
+INFO	  - Inserted 2 items
 INFO	  - Updated status
 INFO	- [158/460] Fetching url https://medium.com/feed/@drorbiran
 INFO	  - Nbr of feed items 4
@@ -974,9 +974,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [203/460] Fetching url http://www.dotnetcurry.com/GetArticlesRss.aspx?CatID=90
-INFO	  - Nbr of feed items 2
+INFO	  - Nbr of feed items 3
 INFO	  - Deleted old items
-INFO	  - Inserted 2 items
+INFO	  - Inserted 3 items
 INFO	  - Updated status
 INFO	- [204/460] Fetching url http://www.dotnetcurry.com/GetArticlesRss.aspx?CatID=91
 INFO	  - Nbr of feed items 2
@@ -1190,10 +1190,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [248/460] Fetching url https://levinh.net/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [249/460] Fetching url https://jonsuh.com/blog/feed.xml
 INFO	  - Nbr of feed items 18
 INFO	  - Deleted old items
@@ -1498,10 +1495,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 25 items
 INFO	  - Updated status
 INFO	- [312/460] Fetching url https://quan-cam.com/rss
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [313/460] Fetching url https://thefullsnack.com/rss.xml
 INFO	  - Nbr of feed items 117
 INFO	  - Deleted old items
@@ -1802,10 +1796,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 100 items
 INFO	  - Updated status
 INFO	- [377/460] Fetching url https://lcdung.top/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [378/460] Fetching url https://www.404podcast.org/feed.xml
 INFO	  - Nbr of feed items 1
 INFO	  - Deleted old items
