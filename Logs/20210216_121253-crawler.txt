@@ -280,9 +280,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [60/460] Fetching url http://feeds.feedburner.com/CssTricks
-INFO	  - Nbr of feed items 10
+INFO	  - Nbr of feed items 15
 INFO	  - Deleted old items
-INFO	  - Inserted 10 items
+INFO	  - Inserted 15 items
 INFO	  - Updated status
 INFO	- [61/460] Fetching url http://michaelsoriano.com/blog/feed
 INFO	  - Nbr of feed items 10
@@ -300,9 +300,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 50 items
 INFO	  - Updated status
 INFO	- [64/460] Fetching url https://www.exceptionnotfound.net/rss
-INFO	  - Nbr of feed items 427
+INFO	  - Nbr of feed items 429
 INFO	  - Deleted old items
-INFO	  - Inserted 427 items
+INFO	  - Inserted 429 items
 INFO	  - Updated status
 INFO	- [65/460] Fetching url http://feeds.feedburner.com/PrimaryObjects
 INFO	  - Nbr of feed items 104
@@ -357,9 +357,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 14 items
 INFO	  - Updated status
 INFO	- [76/460] Fetching url http://markhneedham.com/blog/index.xml
-INFO	  - Nbr of feed items 1749
+INFO	  - Nbr of feed items 1750
 INFO	  - Deleted old items
-INFO	  - Inserted 1749 items
+INFO	  - Inserted 1750 items
 INFO	  - Updated status
 INFO	- [77/460] Fetching url https://itnext.io/feed
 INFO	  - Nbr of feed items 10
@@ -702,7 +702,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [148/460] Fetching url https://www.carlrippon.com/rss.xml
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 178
+INFO	  - Deleted old items
+INFO	  - Inserted 178 items
+INFO	  - Updated status
 INFO	- [149/460] Fetching url https://medium.com/feed/@varunraj22
 INFO	  - Nbr of feed items 6
 INFO	  - Deleted old items
@@ -729,9 +732,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [154/460] Fetching url https://medium.com/feed/@kcmueller
-INFO	  - Nbr of feed items 7
+INFO	  - Nbr of feed items 6
 INFO	  - Deleted old items
-INFO	  - Inserted 7 items
+INFO	  - Inserted 6 items
 INFO	  - Updated status
 INFO	- [155/460] Fetching url https://medium.com/feed/coding-design
 INFO	  - Nbr of feed items 10
@@ -744,9 +747,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 2 items
 INFO	  - Updated status
 INFO	- [157/460] Fetching url https://medium.com/feed/@anthonygore
-INFO	  - Nbr of feed items 1
+INFO	  - Nbr of feed items 2
 INFO	  - Deleted old items
-INFO	  - Inserted 1 items
+INFO	  - Inserted 2 items
 INFO	  - Updated status
 INFO	- [158/460] Fetching url https://medium.com/feed/@drorbiran
 INFO	  - Nbr of feed items 4
@@ -1480,10 +1483,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [309/460] Fetching url http://science-technology.vn/?feed=rss2
-INFO	  - Nbr of feed items 5
-INFO	  - Deleted old items
-INFO	  - Inserted 5 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [310/460] Fetching url https://niviki.com/index.xml
 INFO	  - Nbr of feed items 0
 INFO	- [311/460] Fetching url http://www.giaosucan.com/feeds/posts/default?alt=rss
@@ -1492,10 +1492,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 25 items
 INFO	  - Updated status
 INFO	- [312/460] Fetching url https://quan-cam.com/rss
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [313/460] Fetching url https://thefullsnack.com/rss.xml
 INFO	  - Nbr of feed items 117
 INFO	  - Deleted old items
