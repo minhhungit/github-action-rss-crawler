@@ -185,7 +185,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 15 items
 INFO	  - Updated status
 INFO	- [41/460] Fetching url http://codetunnel.io/rss
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 15
+INFO	  - Deleted old items
+INFO	  - Inserted 15 items
+INFO	  - Updated status
 INFO	- [42/460] Fetching url https://www.mesta-automation.com/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -297,9 +300,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 50 items
 INFO	  - Updated status
 INFO	- [64/460] Fetching url https://www.exceptionnotfound.net/rss
-INFO	  - Nbr of feed items 429
+INFO	  - Nbr of feed items 431
 INFO	  - Deleted old items
-INFO	  - Inserted 429 items
+INFO	  - Inserted 431 items
 INFO	  - Updated status
 INFO	- [65/460] Fetching url http://feeds.feedburner.com/PrimaryObjects
 INFO	  - Nbr of feed items 104
@@ -419,10 +422,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [89/460] Fetching url https://medium.com/feed/@_ericelliott
-INFO	  - Nbr of feed items 1
-INFO	  - Deleted old items
-INFO	  - Inserted 1 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [90/460] Fetching url https://medium.com/feed/@david.gilbertson
 INFO	  - Nbr of feed items 4
 INFO	  - Deleted old items
@@ -699,9 +699,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [148/460] Fetching url https://www.carlrippon.com/rss.xml
-INFO	  - Nbr of feed items 178
+INFO	  - Nbr of feed items 179
 INFO	  - Deleted old items
-INFO	  - Inserted 178 items
+INFO	  - Inserted 179 items
 INFO	  - Updated status
 INFO	- [149/460] Fetching url https://medium.com/feed/@varunraj22
 INFO	  - Nbr of feed items 6
@@ -744,9 +744,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 2 items
 INFO	  - Updated status
 INFO	- [157/460] Fetching url https://medium.com/feed/@anthonygore
-INFO	  - Nbr of feed items 3
+INFO	  - Nbr of feed items 5
 INFO	  - Deleted old items
-INFO	  - Inserted 3 items
+INFO	  - Inserted 5 items
 INFO	  - Updated status
 INFO	- [158/460] Fetching url https://medium.com/feed/@drorbiran
 INFO	  - Nbr of feed items 4
@@ -956,9 +956,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [200/460] Fetching url http://www.dotnetcurry.com/GetArticlesRss.aspx?CatID=87
-INFO	  - Nbr of feed items 3
+INFO	  - Nbr of feed items 4
 INFO	  - Deleted old items
-INFO	  - Inserted 3 items
+INFO	  - Inserted 4 items
 INFO	  - Updated status
 INFO	- [201/460] Fetching url http://www.dotnetcurry.com/GetArticlesRss.aspx?CatID=88
 INFO	  - Nbr of feed items 10
@@ -1544,7 +1544,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 0 items
 INFO	  - Updated status
 INFO	- [323/460] Fetching url http://codetunnel.com/feed
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 15
+INFO	  - Deleted old items
+INFO	  - Inserted 15 items
+INFO	  - Updated status
 INFO	- [324/460] Fetching url https://medium.com/feed/javascript-by-doing
 INFO	  - Nbr of feed items 2
 INFO	  - Deleted old items
@@ -1576,7 +1579,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 15 items
 INFO	  - Updated status
 INFO	- [330/460] Fetching url http://duthaho.com/rss.xml
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 14
+INFO	  - Deleted old items
+INFO	  - Inserted 14 items
+INFO	  - Updated status
 INFO	- [331/460] Fetching url https://thienn.com/feed.xml
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -2032,9 +2038,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 2 items
 INFO	  - Updated status
 INFO	- [426/460] Fetching url https://blog.rsuter.com/feed.xml
-INFO	  - Nbr of feed items 72
+INFO	  - Nbr of feed items 73
 INFO	  - Deleted old items
-INFO	  - Inserted 72 items
+INFO	  - Inserted 73 items
 INFO	  - Updated status
 INFO	- [427/460] Fetching url https://tapchilaptrinh.vn/feed
 INFO	  - Nbr of feed items 10
@@ -2134,7 +2140,7 @@ INFO	  - Updated status
 INFO	- [446/460] Fetching url https://dev.to/feed/tag/go
 INFO	  - Nbr of feed items 12
 INFO	  - Deleted old items
-INFO	  - Inserted 11 items
+INFO	  - Inserted 12 items
 INFO	  - Updated status
 INFO	- [447/460] Fetching url https://dev.to/feed/tag/dotnet
 INFO	  - Nbr of feed items 12
