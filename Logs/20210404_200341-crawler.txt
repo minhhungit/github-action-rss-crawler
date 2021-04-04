@@ -334,7 +334,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 15 items
 INFO	  - Updated status
 INFO	- [72/460] Fetching url https://www.spiria.com/en/blog/feed
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted 10 items
+INFO	  - Updated status
 INFO	- [73/460] Fetching url https://ardalis.com/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -351,9 +354,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 14 items
 INFO	  - Updated status
 INFO	- [76/460] Fetching url http://markhneedham.com/blog/index.xml
-INFO	  - Nbr of feed items 1750
+INFO	  - Nbr of feed items 1752
 INFO	  - Deleted old items
-INFO	  - Inserted 1750 items
+INFO	  - Inserted 1752 items
 INFO	  - Updated status
 INFO	- [77/460] Fetching url https://itnext.io/feed
 INFO	  - Nbr of feed items 10
@@ -693,7 +696,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [148/460] Fetching url https://www.carlrippon.com/rss.xml
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 183
+INFO	  - Deleted old items
+INFO	  - Inserted 183 items
+INFO	  - Updated status
 INFO	- [149/460] Fetching url https://medium.com/feed/@varunraj22
 INFO	  - Nbr of feed items 6
 INFO	  - Deleted old items
@@ -735,9 +741,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 2 items
 INFO	  - Updated status
 INFO	- [157/460] Fetching url https://medium.com/feed/@anthonygore
-INFO	  - Nbr of feed items 8
+INFO	  - Nbr of feed items 9
 INFO	  - Deleted old items
-INFO	  - Inserted 8 items
+INFO	  - Inserted 9 items
 INFO	  - Updated status
 INFO	- [158/460] Fetching url https://medium.com/feed/@drorbiran
 INFO	  - Nbr of feed items 4
@@ -812,9 +818,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [173/460] Fetching url https://stackshare.io/featured-posts.atom
-INFO	  - Nbr of feed items 241
+INFO	  - Nbr of feed items 242
 INFO	  - Deleted old items
-INFO	  - Inserted 241 items
+INFO	  - Inserted 242 items
 INFO	  - Updated status
 INFO	- [174/460] Fetching url https://sachabarbs.wordpress.com/feed
 INFO	  - Nbr of feed items 30
@@ -1178,10 +1184,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [248/460] Fetching url https://levinh.net/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [249/460] Fetching url https://jonsuh.com/blog/feed.xml
 INFO	  - Nbr of feed items 18
 INFO	  - Deleted old items
@@ -1437,7 +1440,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [301/460] Fetching url https://blog.endjin.com/feed
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 50
+INFO	  - Deleted old items
+INFO	  - Inserted 50 items
+INFO	  - Updated status
 INFO	- [302/460] Fetching url https://www.devsanon.com/feed
 INFO	  - Nbr of feed items 0
 INFO	- [303/460] Fetching url https://snede.net/feed
@@ -1641,7 +1647,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 64 items
 INFO	  - Updated status
 INFO	- [346/460] Fetching url https://freecoursesite.com/feed
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 12
+INFO	  - Deleted old items
+INFO	  - Inserted 12 items
+INFO	  - Updated status
 INFO	- [347/460] Fetching url http://collabnix.com/feed
 INFO	  - Nbr of feed items 6
 INFO	  - Deleted old items
@@ -1697,7 +1706,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [359/460] Fetching url https://jeevasubburaj.com/atom.xml
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 18
+INFO	  - Deleted old items
+INFO	  - Inserted 18 items
+INFO	  - Updated status
 INFO	- [360/460] Fetching url http://feeds.feedburner.com/vnhacker
 INFO	  - Nbr of feed items 25
 INFO	  - Deleted old items
@@ -1739,7 +1751,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [368/460] Fetching url https://decodenatura.com/rss.xml
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 24
+INFO	  - Deleted old items
+INFO	  - Inserted 24 items
+INFO	  - Updated status
 INFO	- [369/460] Fetching url https://codeteddy.com/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
