@@ -331,7 +331,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 15 items
 INFO	  - Updated status
 INFO	- [72/460] Fetching url https://www.spiria.com/en/blog/feed
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted 10 items
+INFO	  - Updated status
 INFO	- [73/460] Fetching url https://ardalis.com/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -348,9 +351,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 14 items
 INFO	  - Updated status
 INFO	- [76/460] Fetching url http://markhneedham.com/blog/index.xml
-INFO	  - Nbr of feed items 1756
+INFO	  - Nbr of feed items 1757
 INFO	  - Deleted old items
-INFO	  - Inserted 1756 items
+INFO	  - Inserted 1757 items
 INFO	  - Updated status
 INFO	- [77/460] Fetching url https://itnext.io/feed
 INFO	  - Nbr of feed items 10
@@ -754,9 +757,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 8 items
 INFO	  - Updated status
 INFO	- [162/460] Fetching url https://medium.com/feed/@manojsinghnegi
-INFO	  - Nbr of feed items 5
+INFO	  - Nbr of feed items 4
 INFO	  - Deleted old items
-INFO	  - Inserted 5 items
+INFO	  - Inserted 4 items
 INFO	  - Updated status
 INFO	- [163/460] Fetching url https://medium.com/feed/techtrument
 INFO	  - Nbr of feed items 10
@@ -806,9 +809,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [173/460] Fetching url https://stackshare.io/featured-posts.atom
-INFO	  - Nbr of feed items 243
+INFO	  - Nbr of feed items 244
 INFO	  - Deleted old items
-INFO	  - Inserted 243 items
+INFO	  - Inserted 244 items
 INFO	  - Updated status
 INFO	- [174/460] Fetching url https://sachabarbs.wordpress.com/feed
 INFO	  - Nbr of feed items 30
@@ -981,10 +984,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [208/460] Fetching url https://medium.com/feed/@old_sound
-INFO	  - Nbr of feed items 7
-INFO	  - Deleted old items
-INFO	  - Inserted 7 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [209/460] Fetching url https://feeds.feedburner.com/soundcode
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -1442,7 +1442,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [305/460] Fetching url https://agirlamonggeeks.com/feed
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 57
+INFO	  - Deleted old items
+INFO	  - Inserted 57 items
+INFO	  - Updated status
 INFO	- [306/460] Fetching url https://itviec.com/blog/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -1760,9 +1763,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [374/460] Fetching url https://www.alachisoft.com/blogs/feed
-INFO	  - Nbr of feed items 181
+INFO	  - Nbr of feed items 200
 INFO	  - Deleted old items
-INFO	  - Inserted 181 items
+INFO	  - Inserted 200 items
 INFO	  - Updated status
 INFO	- [375/460] Fetching url https://minhhungit.github.io/atom.xml
 INFO	  - Nbr of feed items 10
