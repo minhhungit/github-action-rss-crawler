@@ -757,9 +757,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 8 items
 INFO	  - Updated status
 INFO	- [162/460] Fetching url https://medium.com/feed/@manojsinghnegi
-INFO	  - Nbr of feed items 5
+INFO	  - Nbr of feed items 4
 INFO	  - Deleted old items
-INFO	  - Inserted 5 items
+INFO	  - Inserted 4 items
 INFO	  - Updated status
 INFO	- [163/460] Fetching url https://medium.com/feed/techtrument
 INFO	  - Nbr of feed items 10
@@ -809,9 +809,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [173/460] Fetching url https://stackshare.io/featured-posts.atom
-INFO	  - Nbr of feed items 243
+INFO	  - Nbr of feed items 244
 INFO	  - Deleted old items
-INFO	  - Inserted 243 items
+INFO	  - Inserted 244 items
 INFO	  - Updated status
 INFO	- [174/460] Fetching url https://sachabarbs.wordpress.com/feed
 INFO	  - Nbr of feed items 30
@@ -1169,10 +1169,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [248/460] Fetching url https://levinh.net/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [249/460] Fetching url https://jonsuh.com/blog/feed.xml
 INFO	  - Nbr of feed items 18
 INFO	  - Deleted old items
@@ -1595,9 +1592,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [338/460] Fetching url https://blog.codingmilitia.com/feed.xml
-INFO	  - Nbr of feed items 118
+INFO	  - Nbr of feed items 119
 INFO	  - Deleted old items
-INFO	  - Inserted 118 items
+INFO	  - Inserted 119 items
 INFO	  - Updated status
 INFO	- [339/460] Fetching url https://jack-vanlightly.com/blog?format=RSS
 INFO	  - Nbr of feed items 20
@@ -1766,9 +1763,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [374/460] Fetching url https://www.alachisoft.com/blogs/feed
-INFO	  - Nbr of feed items 181
+INFO	  - Nbr of feed items 176
 INFO	  - Deleted old items
-INFO	  - Inserted 181 items
+INFO	  - Inserted 176 items
 INFO	  - Updated status
 INFO	- [375/460] Fetching url https://minhhungit.github.io/atom.xml
 INFO	  - Nbr of feed items 10
