@@ -351,9 +351,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 14 items
 INFO	  - Updated status
 INFO	- [76/460] Fetching url http://markhneedham.com/blog/index.xml
-INFO	  - Nbr of feed items 1757
+INFO	  - Nbr of feed items 1759
 INFO	  - Deleted old items
-INFO	  - Inserted 1757 items
+INFO	  - Inserted 1759 items
 INFO	  - Updated status
 INFO	- [77/460] Fetching url https://itnext.io/feed
 INFO	  - Nbr of feed items 10
@@ -1169,10 +1169,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [248/460] Fetching url https://levinh.net/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [249/460] Fetching url https://jonsuh.com/blog/feed.xml
 INFO	  - Nbr of feed items 18
 INFO	  - Deleted old items
@@ -1610,10 +1607,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [341/460] Fetching url https://www.blogofpi.com/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [342/460] Fetching url https://benfoster.io/blog/feed
 INFO	  - Nbr of feed items 129
 INFO	  - Deleted old items
@@ -1978,9 +1972,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [417/460] Fetching url https://medium.com/feed/@gaspard.merten
-INFO	  - Nbr of feed items 8
+INFO	  - Nbr of feed items 7
 INFO	  - Deleted old items
-INFO	  - Inserted 8 items
+INFO	  - Inserted 7 items
 INFO	  - Updated status
 INFO	- [418/460] Fetching url https://medium.com/feed/flutterpub
 INFO	  - Nbr of feed items 10
