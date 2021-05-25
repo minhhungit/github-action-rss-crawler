@@ -351,9 +351,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 14 items
 INFO	  - Updated status
 INFO	- [76/460] Fetching url http://markhneedham.com/blog/index.xml
-INFO	  - Nbr of feed items 1758
+INFO	  - Nbr of feed items 1759
 INFO	  - Deleted old items
-INFO	  - Inserted 1758 items
+INFO	  - Inserted 1759 items
 INFO	  - Updated status
 INFO	- [77/460] Fetching url https://itnext.io/feed
 INFO	  - Nbr of feed items 10
@@ -697,9 +697,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 6 items
 INFO	  - Updated status
 INFO	- [150/460] Fetching url https://medium.com/feed/@chiro8x
-INFO	  - Nbr of feed items 5
+INFO	  - Nbr of feed items 6
 INFO	  - Deleted old items
-INFO	  - Inserted 5 items
+INFO	  - Inserted 6 items
 INFO	  - Updated status
 INFO	- [151/460] Fetching url https://techblog.dorogin.com/feed
 INFO	  - Nbr of feed items 10
@@ -1107,7 +1107,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 35 items
 INFO	  - Updated status
 INFO	- [235/460] Fetching url http://rion.io/rss
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 15
+INFO	  - Deleted old items
+INFO	  - Inserted 14 items
+INFO	  - Updated status
 INFO	- [236/460] Fetching url https://tungnt.net/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -1169,10 +1172,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [248/460] Fetching url https://levinh.net/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [249/460] Fetching url https://jonsuh.com/blog/feed.xml
 INFO	  - Nbr of feed items 18
 INFO	  - Deleted old items
@@ -1766,9 +1766,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [374/460] Fetching url https://www.alachisoft.com/blogs/feed
-INFO	  - Nbr of feed items 178
+INFO	  - Nbr of feed items 179
 INFO	  - Deleted old items
-INFO	  - Inserted 178 items
+INFO	  - Inserted 179 items
 INFO	  - Updated status
 INFO	- [375/460] Fetching url https://minhhungit.github.io/atom.xml
 INFO	  - Nbr of feed items 10
@@ -1978,9 +1978,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [417/460] Fetching url https://medium.com/feed/@gaspard.merten
-INFO	  - Nbr of feed items 8
+INFO	  - Nbr of feed items 7
 INFO	  - Deleted old items
-INFO	  - Inserted 8 items
+INFO	  - Inserted 7 items
 INFO	  - Updated status
 INFO	- [418/460] Fetching url https://medium.com/feed/flutterpub
 INFO	  - Nbr of feed items 10
