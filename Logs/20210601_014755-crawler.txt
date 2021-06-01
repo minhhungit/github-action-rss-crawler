@@ -309,10 +309,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 15 items
 INFO	  - Updated status
 INFO	- [67/460] Fetching url https://visualstudiomagazine.com/rss-feeds/blogs.aspx
-INFO	  - Nbr of feed items 60
-INFO	  - Deleted old items
-INFO	  - Inserted 60 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [68/460] Fetching url https://www.c-sharpcorner.com/rss/latestcontentall.aspx
 INFO	  - Nbr of feed items 30
 INFO	  - Deleted old items
@@ -700,9 +697,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 6 items
 INFO	  - Updated status
 INFO	- [150/460] Fetching url https://medium.com/feed/@chiro8x
-INFO	  - Nbr of feed items 5
+INFO	  - Nbr of feed items 6
 INFO	  - Deleted old items
-INFO	  - Inserted 5 items
+INFO	  - Inserted 6 items
 INFO	  - Updated status
 INFO	- [151/460] Fetching url https://techblog.dorogin.com/feed
 INFO	  - Nbr of feed items 10
@@ -720,9 +717,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [154/460] Fetching url https://medium.com/feed/@kcmueller
-INFO	  - Nbr of feed items 6
+INFO	  - Nbr of feed items 5
 INFO	  - Deleted old items
-INFO	  - Inserted 6 items
+INFO	  - Inserted 5 items
 INFO	  - Updated status
 INFO	- [155/460] Fetching url https://medium.com/feed/coding-design
 INFO	  - Nbr of feed items 10
@@ -812,9 +809,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [173/460] Fetching url https://stackshare.io/featured-posts.atom
-INFO	  - Nbr of feed items 244
+INFO	  - Nbr of feed items 245
 INFO	  - Deleted old items
-INFO	  - Inserted 244 items
+INFO	  - Inserted 245 items
 INFO	  - Updated status
 INFO	- [174/460] Fetching url https://sachabarbs.wordpress.com/feed
 INFO	  - Nbr of feed items 30
@@ -1110,7 +1107,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 35 items
 INFO	  - Updated status
 INFO	- [235/460] Fetching url http://rion.io/rss
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 15
+INFO	  - Deleted old items
+INFO	  - Inserted 14 items
+INFO	  - Updated status
 INFO	- [236/460] Fetching url https://tungnt.net/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -1189,10 +1189,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [252/460] Fetching url https://www.zeptobook.com/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [253/460] Fetching url https://feeds.telerik.com/blogs/-net?format=xml?format=xml
 INFO	  - Nbr of feed items 15
 INFO	  - Deleted old items
@@ -1664,10 +1661,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [353/460] Fetching url https://blog.vietnamlab.vn/rss
-INFO	  - Nbr of feed items 15
-INFO	  - Deleted old items
-INFO	  - Inserted 15 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [354/460] Fetching url https://feeds.feedburner.com/GrabBagOfT
 INFO	  - Nbr of feed items 15
 INFO	  - Deleted old items
@@ -1766,9 +1760,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [374/460] Fetching url https://www.alachisoft.com/blogs/feed
-INFO	  - Nbr of feed items 178
+INFO	  - Nbr of feed items 195
 INFO	  - Deleted old items
-INFO	  - Inserted 178 items
+INFO	  - Inserted 195 items
 INFO	  - Updated status
 INFO	- [375/460] Fetching url https://minhhungit.github.io/atom.xml
 INFO	  - Nbr of feed items 10
@@ -1978,9 +1972,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [417/460] Fetching url https://medium.com/feed/@gaspard.merten
-INFO	  - Nbr of feed items 8
+INFO	  - Nbr of feed items 7
 INFO	  - Deleted old items
-INFO	  - Inserted 8 items
+INFO	  - Inserted 7 items
 INFO	  - Updated status
 INFO	- [418/460] Fetching url https://medium.com/feed/flutterpub
 INFO	  - Nbr of feed items 10
@@ -2025,10 +2019,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 73 items
 INFO	  - Updated status
 INFO	- [427/460] Fetching url https://tapchilaptrinh.vn/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [428/460] Fetching url https://edwardthienhoang.wordpress.com/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
