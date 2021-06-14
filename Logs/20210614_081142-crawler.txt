@@ -151,7 +151,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 15 items
 INFO	  - Updated status
 INFO	- [33/460] Fetching url http://joeduffyblog.com/feed.xml
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted 10 items
+INFO	  - Updated status
 INFO	- [34/460] Fetching url https://www.genuitec.com/community/blog/feed
 INFO	  - Nbr of feed items 15
 INFO	  - Deleted old items
@@ -288,9 +291,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 50 items
 INFO	  - Updated status
 INFO	- [64/460] Fetching url https://www.exceptionnotfound.net/rss
-INFO	  - Nbr of feed items 15
+INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
-INFO	  - Inserted 15 items
+INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [65/460] Fetching url http://feeds.feedburner.com/PrimaryObjects
 INFO	  - Nbr of feed items 104
@@ -298,10 +301,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 104 items
 INFO	  - Updated status
 INFO	- [66/460] Fetching url http://www.infosysblogs.com/microsoft/atom.xml
-INFO	  - Nbr of feed items 15
-INFO	  - Deleted old items
-INFO	  - Inserted 15 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [67/460] Fetching url https://visualstudiomagazine.com/rss-feeds/blogs.aspx
 INFO	  - Nbr of feed items 0
 INFO	- [68/460] Fetching url https://www.c-sharpcorner.com/rss/latestcontentall.aspx
@@ -365,10 +365,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 30 items
 INFO	  - Updated status
 INFO	- [80/460] Fetching url http://davidfowl.com/rss
-INFO	  - Nbr of feed items 7
-INFO	  - Deleted old items
-INFO	  - Inserted 7 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [81/460] Fetching url https://thomasbandt.com/feed
 INFO	  - Nbr of feed items 5
 INFO	  - Deleted old items
@@ -412,7 +409,10 @@ INFO	  - Updated status
 INFO	- [89/460] Fetching url https://medium.com/feed/@_ericelliott
 INFO	  - Nbr of feed items 0
 INFO	- [90/460] Fetching url https://medium.com/feed/@david.gilbertson
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 1
+INFO	  - Deleted old items
+INFO	  - Inserted 1 items
+INFO	  - Updated status
 INFO	- [91/460] Fetching url https://medium.com/feed/coderbyte
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -1101,10 +1101,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 35 items
 INFO	  - Updated status
 INFO	- [235/460] Fetching url http://rion.io/rss
-INFO	  - Nbr of feed items 15
-INFO	  - Deleted old items
-INFO	  - Inserted 14 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [236/460] Fetching url https://tungnt.net/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -1166,7 +1163,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [248/460] Fetching url https://levinh.net/feed
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted 10 items
+INFO	  - Updated status
 INFO	- [249/460] Fetching url https://jonsuh.com/blog/feed.xml
 INFO	  - Nbr of feed items 18
 INFO	  - Deleted old items
@@ -1737,10 +1737,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [370/460] Fetching url https://stegosource.com/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [371/460] Fetching url https://severalnines.com/rss.xml
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -1757,9 +1754,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [374/460] Fetching url https://www.alachisoft.com/blogs/feed
-INFO	  - Nbr of feed items 195
+INFO	  - Nbr of feed items 198
 INFO	  - Deleted old items
-INFO	  - Inserted 195 items
+INFO	  - Inserted 198 items
 INFO	  - Updated status
 INFO	- [375/460] Fetching url https://minhhungit.github.io/atom.xml
 INFO	  - Nbr of feed items 10
@@ -2152,7 +2149,7 @@ INFO	  - Updated status
 INFO	- [455/460] Fetching url https://dev.to/feed/tag/flutter
 INFO	  - Nbr of feed items 12
 INFO	  - Deleted old items
-INFO	  - Inserted 11 items
+INFO	  - Inserted 12 items
 INFO	  - Updated status
 INFO	- [456/460] Fetching url https://dev.to/feed/tag/ux
 INFO	  - Nbr of feed items 12
