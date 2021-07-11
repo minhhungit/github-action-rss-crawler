@@ -139,10 +139,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 100 items
 INFO	  - Updated status
 INFO	- [30/460] Fetching url https://stackify.com/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [31/460] Fetching url http://irisclasson.com/feed
 INFO	  - Nbr of feed items 0
 INFO	- [32/460] Fetching url http://thebillwagner.com/Blog/RSS
@@ -309,7 +306,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 15 items
 INFO	  - Updated status
 INFO	- [67/460] Fetching url https://visualstudiomagazine.com/rss-feeds/blogs.aspx
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 60
+INFO	  - Deleted old items
+INFO	  - Inserted 60 items
+INFO	  - Updated status
 INFO	- [68/460] Fetching url https://www.c-sharpcorner.com/rss/latestcontentall.aspx
 INFO	  - Nbr of feed items 30
 INFO	  - Deleted old items
@@ -1000,9 +1000,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [210/460] Fetching url http://feeds.feedburner.com/2ality
-INFO	  - Nbr of feed items 8
+INFO	  - Nbr of feed items 9
 INFO	  - Deleted old items
-INFO	  - Inserted 8 items
+INFO	  - Inserted 9 items
 INFO	  - Updated status
 INFO	- [211/460] Fetching url https://adamstorr.azurewebsites.net/feed.atom
 INFO	  - Nbr of feed items 20
@@ -2166,7 +2166,7 @@ INFO	  - Updated status
 INFO	- [453/460] Fetching url https://dev.to/feed/tag/api
 INFO	  - Nbr of feed items 12
 INFO	  - Deleted old items
-INFO	  - Inserted 11 items
+INFO	  - Inserted 12 items
 INFO	  - Updated status
 INFO	- [454/460] Fetching url https://dev.to/feed/tag/frontend
 INFO	  - Nbr of feed items 12
@@ -2181,7 +2181,7 @@ INFO	  - Updated status
 INFO	- [456/460] Fetching url https://dev.to/feed/tag/ux
 INFO	  - Nbr of feed items 12
 INFO	  - Deleted old items
-INFO	  - Inserted 11 items
+INFO	  - Inserted 12 items
 INFO	  - Updated status
 INFO	- [457/460] Fetching url https://dev.to/feed/tag/sql
 INFO	  - Nbr of feed items 12
