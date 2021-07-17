@@ -351,9 +351,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 14 items
 INFO	  - Updated status
 INFO	- [76/460] Fetching url http://markhneedham.com/blog/index.xml
-INFO	  - Nbr of feed items 1761
+INFO	  - Nbr of feed items 1762
 INFO	  - Deleted old items
-INFO	  - Inserted 1761 items
+INFO	  - Inserted 1762 items
 INFO	  - Updated status
 INFO	- [77/460] Fetching url https://itnext.io/feed
 INFO	  - Nbr of feed items 10
@@ -843,7 +843,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [178/460] Fetching url https://blog.falcross.com/rss
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 2
+INFO	  - Deleted old items
+INFO	  - Inserted 2 items
+INFO	  - Updated status
 INFO	- [179/460] Fetching url http://feeds.feedburner.com/netCurryRecentArticles
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -2178,7 +2181,7 @@ INFO	  - Updated status
 INFO	- [456/460] Fetching url https://dev.to/feed/tag/ux
 INFO	  - Nbr of feed items 12
 INFO	  - Deleted old items
-INFO	  - Inserted 11 items
+INFO	  - Inserted 12 items
 INFO	  - Updated status
 INFO	- [457/460] Fetching url https://dev.to/feed/tag/sql
 INFO	  - Nbr of feed items 12
