@@ -354,9 +354,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 14 items
 INFO	  - Updated status
 INFO	- [76/460] Fetching url http://markhneedham.com/blog/index.xml
-INFO	  - Nbr of feed items 1761
+INFO	  - Nbr of feed items 1762
 INFO	  - Deleted old items
-INFO	  - Inserted 1761 items
+INFO	  - Inserted 1762 items
 INFO	  - Updated status
 INFO	- [77/460] Fetching url https://itnext.io/feed
 INFO	  - Nbr of feed items 10
@@ -801,10 +801,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [169/460] Fetching url http://www.takethiscourse.net/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [170/460] Fetching url https://medium.com/feed/vue-mastery
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -1202,10 +1199,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [251/460] Fetching url https://programmingwithmosh.com/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [252/460] Fetching url https://www.zeptobook.com/feed
 INFO	  - Nbr of feed items 0
 INFO	- [253/460] Fetching url https://feeds.telerik.com/blogs/-net?format=xml?format=xml
@@ -1625,10 +1619,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [341/460] Fetching url https://www.blogofpi.com/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [342/460] Fetching url https://benfoster.io/blog/feed
 INFO	  - Nbr of feed items 129
 INFO	  - Deleted old items
@@ -1761,10 +1752,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [370/460] Fetching url https://stegosource.com/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [371/460] Fetching url https://severalnines.com/rss.xml
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -1866,7 +1854,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [391/460] Fetching url https://dailydotnettips.com/feed
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 20
+INFO	  - Deleted old items
+INFO	  - Inserted 20 items
+INFO	  - Updated status
 INFO	- [392/460] Fetching url http://feeds.feedburner.com/SQLRockstar
 INFO	  - Nbr of feed items 7
 INFO	  - Deleted old items
@@ -2184,7 +2175,7 @@ INFO	  - Updated status
 INFO	- [456/460] Fetching url https://dev.to/feed/tag/ux
 INFO	  - Nbr of feed items 12
 INFO	  - Deleted old items
-INFO	  - Inserted 11 items
+INFO	  - Inserted 12 items
 INFO	  - Updated status
 INFO	- [457/460] Fetching url https://dev.to/feed/tag/sql
 INFO	  - Nbr of feed items 12
