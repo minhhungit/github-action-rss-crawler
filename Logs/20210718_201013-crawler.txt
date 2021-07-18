@@ -351,9 +351,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 14 items
 INFO	  - Updated status
 INFO	- [76/460] Fetching url http://markhneedham.com/blog/index.xml
-INFO	  - Nbr of feed items 1761
+INFO	  - Nbr of feed items 1762
 INFO	  - Deleted old items
-INFO	  - Inserted 1761 items
+INFO	  - Inserted 1762 items
 INFO	  - Updated status
 INFO	- [77/460] Fetching url https://itnext.io/feed
 INFO	  - Nbr of feed items 10
@@ -1875,10 +1875,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 4 items
 INFO	  - Updated status
 INFO	- [394/460] Fetching url https://bytefish.de/feeds/rss.xml
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [395/460] Fetching url https://www.sqlpassion.at/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
