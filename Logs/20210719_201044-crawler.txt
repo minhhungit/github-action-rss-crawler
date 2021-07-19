@@ -351,9 +351,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 14 items
 INFO	  - Updated status
 INFO	- [76/460] Fetching url http://markhneedham.com/blog/index.xml
-INFO	  - Nbr of feed items 1761
+INFO	  - Nbr of feed items 1762
 INFO	  - Deleted old items
-INFO	  - Inserted 1761 items
+INFO	  - Inserted 1762 items
 INFO	  - Updated status
 INFO	- [77/460] Fetching url https://itnext.io/feed
 INFO	  - Nbr of feed items 10
@@ -1187,10 +1187,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [248/460] Fetching url https://levinh.net/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [249/460] Fetching url https://jonsuh.com/blog/feed.xml
 INFO	  - Nbr of feed items 18
 INFO	  - Deleted old items
