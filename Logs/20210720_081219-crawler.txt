@@ -139,7 +139,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 100 items
 INFO	  - Updated status
 INFO	- [30/460] Fetching url https://stackify.com/feed
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted 10 items
+INFO	  - Updated status
 INFO	- [31/460] Fetching url http://irisclasson.com/feed
 INFO	  - Nbr of feed items 0
 INFO	- [32/460] Fetching url http://thebillwagner.com/Blog/RSS
@@ -348,9 +351,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 14 items
 INFO	  - Updated status
 INFO	- [76/460] Fetching url http://markhneedham.com/blog/index.xml
-INFO	  - Nbr of feed items 1761
+INFO	  - Nbr of feed items 1762
 INFO	  - Deleted old items
-INFO	  - Inserted 1761 items
+INFO	  - Inserted 1762 items
 INFO	  - Updated status
 INFO	- [77/460] Fetching url https://itnext.io/feed
 INFO	  - Nbr of feed items 10
