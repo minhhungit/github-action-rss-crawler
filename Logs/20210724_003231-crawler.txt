@@ -134,7 +134,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 20 items
 INFO	  - Updated status
 INFO	- [29/460] Fetching url http://dotnetkicks.com/feeds/rss
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 100
+INFO	  - Deleted old items
+INFO	  - Inserted 100 items
+INFO	  - Updated status
 INFO	- [30/460] Fetching url https://stackify.com/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -196,7 +199,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 20 items
 INFO	  - Updated status
 INFO	- [45/460] Fetching url http://bitoftech.net/feed
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted 10 items
+INFO	  - Updated status
 INFO	- [46/460] Fetching url https://techbrij.com/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -345,9 +351,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 14 items
 INFO	  - Updated status
 INFO	- [76/460] Fetching url http://markhneedham.com/blog/index.xml
-INFO	  - Nbr of feed items 1761
+INFO	  - Nbr of feed items 1762
 INFO	  - Deleted old items
-INFO	  - Inserted 1761 items
+INFO	  - Inserted 1762 items
 INFO	  - Updated status
 INFO	- [77/460] Fetching url https://itnext.io/feed
 INFO	  - Nbr of feed items 10
@@ -812,9 +818,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [173/460] Fetching url https://stackshare.io/featured-posts.atom
-INFO	  - Nbr of feed items 248
+INFO	  - Nbr of feed items 249
 INFO	  - Deleted old items
-INFO	  - Inserted 248 items
+INFO	  - Inserted 249 items
 INFO	  - Updated status
 INFO	- [174/460] Fetching url https://sachabarbs.wordpress.com/feed
 INFO	  - Nbr of feed items 30
@@ -822,10 +828,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 30 items
 INFO	  - Updated status
 INFO	- [175/460] Fetching url http://somdoron.com/rss
-INFO	  - Nbr of feed items 15
-INFO	  - Deleted old items
-INFO	  - Inserted 15 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [176/460] Fetching url http://feeds.feedburner.com/ThanhHHBlog
 INFO	  - Nbr of feed items 25
 INFO	  - Deleted old items
@@ -994,9 +997,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [210/460] Fetching url http://feeds.feedburner.com/2ality
-INFO	  - Nbr of feed items 9
+INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
-INFO	  - Inserted 9 items
+INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [211/460] Fetching url https://adamstorr.azurewebsites.net/feed.atom
 INFO	  - Nbr of feed items 20
