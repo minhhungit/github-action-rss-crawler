@@ -821,9 +821,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [173/460] Fetching url https://stackshare.io/featured-posts.atom
-INFO	  - Nbr of feed items 250
+INFO	  - Nbr of feed items 252
 INFO	  - Deleted old items
-INFO	  - Inserted 250 items
+INFO	  - Inserted 252 items
 INFO	  - Updated status
 INFO	- [174/460] Fetching url https://sachabarbs.wordpress.com/feed
 INFO	  - Nbr of feed items 30
@@ -1127,10 +1127,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 14 items
 INFO	  - Updated status
 INFO	- [236/460] Fetching url https://tungnt.net/feed
-INFO	  - Nbr of feed items 10
-INFO	  - Deleted old items
-INFO	  - Inserted 10 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [237/460] Fetching url http://www.asktester.com/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
@@ -1676,7 +1673,10 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [353/460] Fetching url https://blog.vietnamlab.vn/rss
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 15
+INFO	  - Deleted old items
+INFO	  - Inserted 15 items
+INFO	  - Updated status
 INFO	- [354/460] Fetching url https://feeds.feedburner.com/GrabBagOfT
 INFO	  - Nbr of feed items 15
 INFO	  - Deleted old items
@@ -1775,9 +1775,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [374/460] Fetching url https://www.alachisoft.com/blogs/feed
-INFO	  - Nbr of feed items 200
+INFO	  - Nbr of feed items 205
 INFO	  - Deleted old items
-INFO	  - Inserted 200 items
+INFO	  - Inserted 205 items
 INFO	  - Updated status
 INFO	- [375/460] Fetching url https://minhhungit.github.io/atom.xml
 INFO	  - Nbr of feed items 10
@@ -1840,9 +1840,9 @@ INFO	  - Deleted old items
 INFO	  - Inserted 10 items
 INFO	  - Updated status
 INFO	- [387/460] Fetching url https://feeds.feedburner.com/Humankode
-INFO	  - Nbr of feed items 7
+INFO	  - Nbr of feed items 6
 INFO	  - Deleted old items
-INFO	  - Inserted 7 items
+INFO	  - Inserted 6 items
 INFO	  - Updated status
 INFO	- [388/460] Fetching url https://josefottosson.se/rss
 INFO	  - Nbr of feed items 15
