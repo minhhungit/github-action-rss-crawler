@@ -1,0 +1,52 @@
+INFO	There are 10 active channels
+INFO	- [1/10] Fetching url https://damienbod.com/feed
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted 5 items
+INFO	  - Updated status
+INFO	- [2/10] Fetching url https://vuejsfeed.com/feed
+INFO	  - Nbr of feed items 574
+INFO	  - Deleted old items
+INFO	  - Inserted 5 items
+INFO	  - Updated status
+INFO	- [3/10] Fetching url https://www.stevejgordon.co.uk/feed
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted 5 items
+INFO	  - Updated status
+INFO	- [4/10] Fetching url http://blog.jonathanoliver.com/index.xml
+INFO	  - Nbr of feed items 144
+INFO	  - Deleted old items
+INFO	  - Inserted 5 items
+INFO	  - Updated status
+INFO	- [5/10] Fetching url http://feeds.feedburner.com/codeclimber
+INFO	  - Nbr of feed items 25
+INFO	  - Deleted old items
+INFO	  - Inserted 5 items
+INFO	  - Updated status
+INFO	- [6/10] Fetching url https://codeopinion.com/feed
+INFO	  - Nbr of feed items 20
+INFO	  - Deleted old items
+INFO	  - Inserted 5 items
+INFO	  - Updated status
+INFO	- [7/10] Fetching url http://mattwarren.org/atom.xml
+INFO	  - Nbr of feed items 76
+INFO	  - Deleted old items
+INFO	  - Inserted 5 items
+INFO	  - Updated status
+INFO	- [8/10] Fetching url https://blog.maartenballiauw.be/feed.xml
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted 5 items
+INFO	  - Updated status
+INFO	- [9/10] Fetching url http://feeds.haacked.com/haacked
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted 5 items
+INFO	  - Updated status
+INFO	- [10/10] Fetching url http://feeds.feedburner.com/OdeToCode
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted 5 items
+INFO	  - Updated status
+INFO	Done!

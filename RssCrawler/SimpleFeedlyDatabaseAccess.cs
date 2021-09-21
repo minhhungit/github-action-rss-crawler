@@ -131,6 +131,7 @@ namespace RssCrawler
                 return col
                     .Include(x => x.Channel)
                     .FindAll()
+                    .Where(x=>x?.Channel?.Id != null)
                     .OrderBy(x => x.Channel.Id)
                     .ThenByDescending(x => x.PublishingDate)
                     ?.ToList() ?? new List<RssFeedItemRow>();

@@ -62,7 +62,9 @@ namespace RssCrawler
                 
                 _logger.Info($"There are {channels.Count} active channels");
 
-                //channels = channels.Take(5).ToList();
+                // just take top 5 channel
+                // purpose of this repository is demo how to run dotnet core app on github action, not rss crawl
+                channels = channels.Take(5).ToList();
 
                 var progressCounter = 0;
                 foreach (var channel in channels)
