@@ -15,6 +15,7 @@ namespace RssCrawler
             var appRootPath = EnvironmentHelper.GetApplicationRoot();
             //WriteAllText(Path.Combine(appRootPath, "../", "README.md"), "Hello From Jin -- this file is auto committed " + DateTime.Now);
 
+            SimpleFeedlyDatabaseAccess.Shrink();
             RssCrawler.CrawlRss();
 
             string indexFilePath = Path.Combine(appRootPath, "../", "index.html");

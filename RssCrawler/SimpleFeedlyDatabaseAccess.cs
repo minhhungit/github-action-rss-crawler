@@ -1,4 +1,5 @@
 ﻿using LiteDB;
+using LiteDB.Engine;
 using RssCrawler.Models;
 using RssCrawler.Utils;
 using System;
@@ -18,7 +19,16 @@ namespace RssCrawler
 
             return Path.Combine(rootPath, "../", DbName);
         }
-        
+
+        public static void Shrink()
+        {
+            using (var db = new LiteDatabase(GetDbPath()))
+            {
+                db.Rebuild();
+            }
+        }
+
+
         public static List<RssChannelRow> GetActiveChannels()
         {
             var result = new List<RssChannelRow>();
