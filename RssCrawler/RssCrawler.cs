@@ -88,12 +88,12 @@ namespace RssCrawler
 
                         if (feed != null && feed?.Items != null)
                         {
-                            var top10LatestItems = feed.Items;
-                                //.OrderByDescending(x => x.PublishingDate)
-                                //.Take(10)
-                                //.ToList();
+                            var top5LatestItems = feed.Items
+                                .OrderByDescending(x => x.PublishingDate)
+                                .Take(5)
+                                .ToList();
 
-                            if (top10LatestItems.Count == 0)
+                            if (top5LatestItems.Count == 0)
                             {
                                 continue;
                             }
@@ -104,7 +104,7 @@ namespace RssCrawler
 
                                 var insertItems = new List<RssFeedItemRow>();
 
-                                foreach (var fItem in top10LatestItems)
+                                foreach (var fItem in top5LatestItems)
                                 {
                                     if (!StringUtils.IsUrl(fItem.Link))
                                     {
