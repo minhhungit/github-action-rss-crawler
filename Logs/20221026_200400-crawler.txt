@@ -5,7 +5,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 5 items
 INFO	  - Updated status
 INFO	- [2/5] Fetching url https://vuejsfeed.com/feed
-INFO	  - Nbr of feed items 582
+INFO	  - Nbr of feed items 586
 INFO	  - Deleted old items
 INFO	  - Inserted 5 items
 INFO	  - Updated status
