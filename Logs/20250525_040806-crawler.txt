@@ -1,6 +1,9 @@
 INFO	There are 309 active channels
 INFO	- [1/5] Fetching url https://damienbod.com/feed
-INFO	  - Nbr of feed items 0
+INFO	  - Nbr of feed items 10
+INFO	  - Deleted old items
+INFO	  - Inserted 5 items
+INFO	  - Updated status
 INFO	- [2/5] Fetching url https://vuejsfeed.com/feed
 INFO	  - Nbr of feed items 752
 INFO	  - Deleted old items
