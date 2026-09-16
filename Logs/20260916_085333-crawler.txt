@@ -5,10 +5,7 @@ INFO	  - Deleted old items
 INFO	  - Inserted 5 items
 INFO	  - Updated status
 INFO	- [2/5] Fetching url https://vuejsfeed.com/feed
-INFO	  - Nbr of feed items 752
-INFO	  - Deleted old items
-INFO	  - Inserted 5 items
-INFO	  - Updated status
+INFO	  - Nbr of feed items 0
 INFO	- [3/5] Fetching url https://www.stevejgordon.co.uk/feed
 INFO	  - Nbr of feed items 10
 INFO	  - Deleted old items
